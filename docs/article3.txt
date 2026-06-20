@@ -1,111 +1,5 @@
-realizada através de busca ativa de artigos científicos nas bases de dados PubMed, SciELO e 
-BVS.  Foram utilizados os descritores: Traumatismos Dentários, prevenção, odontologia, 
-utilizando os operadores booleanos AND e OR. Resultados e Discussão:  Os traumatismos 
-dentoalveolares ocorrem com maior frequência entre as lesões faciais e a complexidade do 
-tratamento depende do tipo de fratura e do grau de desenvolvimento dentário. Os casos de 
-trauma dentoalveolar envolvem três estruturas básicas: dentes , osso alveolar e tecidos moles 
-adjacentes. As lesões provenientes de traumas aos tecidos dentários e periodontais podem 
-acontecer de forma isolada ou associada a outras lesões traumáticas da face e são, geralmente, 
-subnotificadas. As lesões às estruturas dentoalveolares podem ser causadas por diversos tipos 
-de trauma, as mais comuns são as quedas, os acidentes automobilísticos, os acidentes 
-desportivos ou recreativos e a violência física. As estratégias de prevenção no nível individual 
-com o potencial de r eduzir a prevalência e a intensidade dos traumatismos dentoalveolares 
-incluem o uso adequado de equipamentos de proteção, como capacetes, protetores faciais e, em 
-especial, protetores bucais. Além dos fatores comportamentais que também podem contribuir 
-para a ocorrência de lesões dentárias traumáticas entre crianças e adolescentes. Considerações 
-Finais: O traumatismo dentário é apontado como um problema de saúde pública, não só pela 
-sua alta prevalência na população, mas também pela sua repercussão psicossocial no cotidiano 
-dos indivíduos. Estratégias para a compreensão dessa temática devem ser estabelecidas para 
-que a criança ou adulto esteja cercado de pessoas aptas para que, em um cenário de 
-emergência,possam auxiliar nos primeiros socorros.  
-Palavras-chave: traumatismos dentários; prevenção; odontologia. 
- 
-ABSTRACT 
- 
-Objective: To describe the epidemiology, etiological factors and means of prevention associated 
-with dental trauma. Methodology: This is a bibliographic review carried out through an active 
-search for scientific articles in the PubMed, SciELO and BVS databases.  The following 
-descriptors were used: dental trauma, prevention, dentistry, using the Boolean operators AND 
-and OR. Results and Discussion: Dentoalveolar trauma occurs most frequently among facial 
-injuries and the complexity of treatment depends on the type of fracture and the degree of dental 
-development. Cases of dentoalveolar trauma involve three basic structures: teeth, alveolar bone 
-and adjacent soft tissues. Injuries resulting fro m trauma to dental and periodontal tissues can 
-occur in isolation or in association with other traumatic injuries to the face and are generally 
-underreported. Injuries to dentoalveolar structures can be caused by various types of trauma, 
-the most common of which are falls, car accidents, sports or recreational accidents and physical 
-violence. Prevention strategies at the individual level with the potential to reduce the prevalence 
-and intensity of dentoalveolar trauma include the proper use of protective eq uipment, such as 
-helmets, face shields and, in particular, mouth guards.Behavioral factors can also contribute to 
-the occurrence of traumatic dental injuries among children and adolescents. Final 
-considerations: Dental trauma is seen as a public health pro blem, not only because of its high 
-prevalence in the population, but also because of its psychosocial repercussions on individuals' 
-daily lives. Strategies for understanding this issue must be established so that the child or adult 
-is surrounded by people who are able to help with first aid in an emergency scenario. 
-Key words: tooth injuries; prevention; Dentistry. 
- 
-1 INTRODUÇÃO 
- Os traumatismos dentoalveolares ocorrem com maior frequência entre as lesões faciais 
-e a complexidade do tratamento depende do ti po de fratura e do grau de desenvolvimento 
-dentário. Traumas dentários, principalmente envolvendo os dentes anteriores, podem afetar a 
-funcionalidade e a estética do indivíduo, afetando seu comportamento. O traumatismo dentário 
-deve sempre ser considerado uma emergência e tratado imediatamente para aliviar a dor, 
-facilitar o reassentamento dos dentes deslocados e melhorar o prognóstico. O traumatismo 
-dentoalveolar- TDA, envolve três estruturas básicas: dentes, porção alveolar e tecidos moles 
-adjacentes. O t raumatismo dentário pode causar perdas dentárias ou propiciar reabsorções 
-radiculares e anquiloses.  
-Quedas acidentais, colisões e atividades recreativas são as causas mais comuns dos 
-traumas dentoalveolares, especialmente quando as crianças aprendem a eng atinhar, andar e 
-correr. Ocorrem mais comumente entre 2 e 6 anos de idade, sendo o dano ao tecido periodontal 
-o mais comum. Os responsáveis pelas crianças com estas lesões recorrem a vários locais de 
-cuidados de saúde, incluindo dentistas generalistas, ser viços médicos de emergência, 
-farmacêuticos, clínicas dentárias comunitárias e serviços dentários especializados. Portanto, 
-cada prestador de serviços precisa ter conhecimentos, habilidades e treinamento adequados para 
-cuidar de crianças com TDA durante o período odontológico primário (DAY, Peter et al. 2020). 
-Mesmo o trauma dentoalveolar sendo comum em crianças, muitos jovens e adultos 
-também são acometidos com este tipo de lesão. Vinte e cinco por cento de todas as crianças em 
-idade escolar sofrem TDA e 33% dos adultos já tiveram trauma na dentição permanente, com 
-a maioria das lesões ocorrendo antes dos 19 anos de idade. As lesões de luxação são as lesões 
-de trauma dentário mais comuns na dentição decídua, enquanto as fraturas coronárias são as 
-lesões mais  relatadas para os dentes permanentes. O diagnóstico, planejamento e 
-acompanhamento adequados são importantes para garantir um prognóstico favorável (LEVIN, 
-LIRAN et al. 2020). 
-Os traumas dentários podem acometer os pacientes de diferentes formas, a depender do 
-tipo da dentição. Na dentição permanente pode ser traumas do tipo: concussão, subluxação, 
-luxação extrusiva, luxação lateral, luxação intrusiva, avulsão, fratura radicular  (terço apical, 
-terço médio), fratura radicular (terço cervical) e fratura alveolar. Já na dentição decídua, podem 
-ocorrer as seguintes: fratura radicular, luxação lateral e fratura alveolar. O tipo de fratura 
-depende da etiologia da lesão, altura da queda , velocidade de impacto e outros fatores. O tipo 
-de tratamento deve ser escolhido com conhecimento científico e de forma adequada para cada 
-tipo de trauma.  E para que a escolha do tratamento seja correta, o profissional deve seguir os parâmetros 
-estabelecidos para manejo de traumas dentoalveolares. É essencial que os clínicos adotem uma 
-abordagem estruturada para o correto manejo dos traumas. Isso inclui a anamnese, realização 
-do exame físico, avaliação dos resultados e como essas informações são registradas. A literatura 
-mostra que o uso de um sistema estruturado para obtenção do histórico do paciente na consulta 
-inicial leva a uma melhora significativa na qualidade dos registros de trauma env olvendo a 
-dentição permanente. Fotografias intra e extra -orais funcionam como um registro permanente 
-das LDTs e são amplamente recomendadas (LEVIN, Liran et al. 2020). 
-Diante da relevante importância do tema na odontologia, o presente trabalho tem como 
-objetivo descrever as principais epidemiologias e fatores etiológicos, bem como os meios de 
-prevenção associados aos traumatismo dentários. Levando em consideração as pesquisas atuais 
-e os melhores prognósticos. 
- 
-2 METODOLOGIA 
- 
-O trabalho trata -se de uma revisão bibliográfica, realizada através de uma busca ativa 
-de artigos científicos nas bases de dados PubMed, SciELO (Scientific Eletronic Library Online) 
-e BVS (Biblioteca Virtual em Saúde). A pesquisa foi realizada através do  cruzamento do s 
-seguintes descritores consultados no DeCS (Descritores em Ciências da Saúde): “Traumatismos 
-Dentários”, “Prevenção” e “Odontologia”, utilizando os operadores booleanos AND e OR. 
-Foram incluídos no estudo, artigos que abordaram pelo menos um d os temas do período de 
-2001 e 2022 e excluídos aqueles que não abordaram nenhum dos temas citados  além de teses 
-ou dissertações, trabalhos de conclusão de curso (TCC), estudos duplicados nas bases de dados 
-e estudos não relevantes quanto à temática abordad a. Os estudos foram selecionados após a 
-leitura dos títulos e posterior leitura e analise dos resumos e texto completo. 
- 
 3 RESULTADOS E DISCUSSÃO 
- 
 3.1 EPIDEMIOLOGIA 
- 
 Estudos de base populacional sobre a prevalência do traumatismo dento alveolar no 
 Brasil são escassos. As lesões provenientes de traumas aos tecidos dentários e periodontais 
 podem acontecer de forma isolada ou associada a outras lesões traumáticas da face e são, 
@@ -138,9 +32,7 @@ sobre o traumatismo dentário e seus fatores de riscos e obteve como resultados 
 são semelhantes a dados encontrados em outros países. No entanto, foram destacadas algumas 
 diferenças, como os indicadores relativos ao gênero e ao meio socioeconômico, os quais foram 
 os fatores de risco mais prevalentes no Brasil (SOARES et al., 2018). 
- 
 3.2 ETIOLOGIA 
- 
 As lesões às estruturas dento alveolares podem ser causadas por diversos tipos de 
 trauma. As causas mais comuns para estas injúrias são as quedas (da própria altura ou de nível), os acidentes automobilísticos, os acidentes desportivos ou recreativos e a violência física. 
 Devido à natureza destes traumas, lesões dento alveolares, com frequência, são acompanhadas 
@@ -170,9 +62,7 @@ prevalentes nessa faixa etária foram referentes a comportamentos não saudávei
 consumo excessivo de álcool e de drogas, além de problemas na saúde mental, entre e les, 
 estresse, depressão e ideais de suicídio, e de intensa atividade física sem proteção adequada 
 (KIM et al., 2020).  
- 
 3.3 PREVENÇÃO DO TRAUMATISMO DENTOALVEOLAR 
- 
 As estratégias de prevenção no nível individual com o potencial de reduzir a prevalência 
 e a intensidade dos traumatismos dento alveolares são escassas. Essas estão associadas aos 
 fatores predisponentes ao trauma dental. Entre esses, incluem-se o uso adequado de equipamentos de proteção, como capacetes, 
@@ -229,9 +119,7 @@ Desse modo, com uma maior proliferação de conhecimentos relaci onados às medi
 preventivas do traumatismo dentário, as consequências advindas dessa vertente serão 
 minimizadas e haverá uma intervenção mais eficaz, assim como uma melhora significativa na 
 qualidade de vida das pessoas sujeitas ao trauma dental. 
- 
 4 CONSIDERAÇÕES FINAIS 
- 
  O traumatismo dentário é apontado como um problema de saúde pública, não só pela 
 sua alta prevalência na população, mas também pela sua repercussão psicossocial no 
 cotidiano dos indivíduos. Disseminar o conhecimento acerca da etiologia e prevenção, 
@@ -246,85 +134,3 @@ crianças e adultos além de apenas no ambiente escolar.
 Estratégias para a compreensão dessa temática deve m ser estabelecidas para que a 
 criança ou adulto esteja cercada de pessoas aptas para em um cenário de emergência onde 
 possam auxiliar nos primeiros socorros.  
- 
-REFERÊNCIAS 
- 
-ANDREASEN, J. O.; ANDREASEN, Frances M. Fundamentos de traumatismo dental: 
-guia de tratamento passo a passso. Artmed, 2001. 
- 
-BONFADINI, Inaiá et al. Maternal characteristics, home environment, and other factors 
-associated with traumatic dental injuries in preschool children. Dental traumatology, v. 36, 
-n. 1, p. 33-40, 2020. 
- 
-BORN, Catherine D. et al. Traumatic dental injuries in preschool‐age children: Prevalence 
-and risk factors. Clinical and experimental dental research, v. 5, n. 2, p. 151-159, 2019. 
-  
-DAY, Peter F. et al. International Association of Dental Traumatology guidelines for the 
-management of traumatic dental injuries: 3. Injuries in the primary dentition. Dental 
-Traumatology, v. 36, n. 4, p. 343-359, 2020. 
- 
-EISSA, M. A.; MUSTAFA ALI, M.; SPLIETH, C. H. Dental trauma characteristics in the 
-primary dentition in Greifswald, Germany: a comparison before and after German unification. 
-European archives of paediatric dentistry, v. 22, p. 783-789, 2021. 
- 
-FOUAD, Ashraf F. et al. International Association of Dental Traumatology guidelines for the 
-management of traumatic dental injuries: 2. Avulsion of permanent teeth. Dental 
-traumatology, v. 36, n. 4, p. 331-342, 2020. 
- 
-FLORES, Marie Therese. International Association of Dental Traumatology guidelines for the 
-management of traumatic dental injuries: 1. Fractures and luxations. 2020. 
- 
-GOMES, Ana Cláudia Amorim et al. Efetividade de proposta de capacitação para professores 
-da rede pública e privada sobre avulsão dentária. Research, Society and Development, v. 10, 
-n. 3, p. e19010313086-e19010313086, 2021. 
- 
-GHALI, G. E.; MILORO, M.; LARSEN, P. E.; WAITE, P. D. Princípios de Cirurgia 
-Bucomaxilofacial de Peterson 3ª ed. São Paulo: Santos Editora; 2016. 
- 
-HAMILTOM, et al.; An investigation of dentoalveolar trauma and its treatment in an 
-adolescent population. Part 1: The prevalence and incidence of injuries and the extent and 
-adequacy of treatment received. British Dental Journal, 182, 91–95, 1997. 
- 
-HUPP, J. M.; ELLIS, E.; TUCKER, M. R. Cirurgia Oral e Maxilofacial Contemporânea. 6 ed. 
-Rio de Janeiro: Elsevier, 2015.  
- JONES, Lewis C. Dental trauma. Oral and Maxillofacial Surgery Clinics, v. 32, n. 4, p. 
-631-638, 2020. 
- 
-KIM, Han-Na et al. Health-risk behavior-, mental health-, and physical exercise-related risk 
-factors for tooth fractures in Korean adolescents. International Journal of Environmental 
-Research and Public Health, v. 17, n. 21, p. 7815, 2020.  
- 
-LEVIN, Liran et al. International Association of Dental Traumatology guidelines for the 
-management of traumatic dental injuries: General introduction. Dental Traumatology, v. 36, 
-n. 4, p. 309-313, 2020.  
- 
-MAJEWSKI, Maciej et al. Traumatic dental injuries-practical management guide. Polski 
-Merkuriusz Lekarski: Organ Polskiego Towarzystwa Lekarskiego, v. 50, n. 297, p. 216-
-218, 2022. 
- 
-MARINHO, Ana Catarina Martins Roleira et al. Prevalência de traumatismo dentário e 
-fatores associados em adolescentes no concelho do Porto. Revista Portuguesa de 
-Estomatologia, Medicina Dentária e Cirurgia Maxilofacial, v. 54, n. 3, p. 143-149, 2013. 
-Ministério da Saúde (BR). Manual de Normas e Procedimentos para Vacinação ed. 1. 
-Brasília, 2014. 
- 
-Ministério da Saúde (BR). Caderno de Atenção Básica Nº 17: Saúde Bucal ed. 1. Brasília, 
-2006. 
- 
-OLCZAK-KOWALCZYK, Dorota et al. Prevalence, Etiology, and Types of Dental Trauma 
-in Self-Assessment of 18-Year-Olds in Poland. International Journal of Environmental 
-Research and Public Health, v. 19, n. 19, p. 12924, 2022. 
- 
-SOARES, Thais Rodrigues Campos et al. Risk factors for traumatic dental injuries in the 
-Brazilian population: A critical review. Dental traumatology, v. 34, n. 6, p. 445-454, 2018. 
-SILVA‐JÚNIOR, Ivam Freire et al. Is dental trauma more prevalent in maltreated children? A 
-comparative Study in Southern Brazil. International Journal of Paediatric Dentistry, v. 29, 
-n. 3, 2019. 
- 
-SORIANO, Evelyne Pessoa et al. Prevalence and risk factors related to traumatic dental 
-injuries in Brazilian schoolchildren. Dental traumatology, v. 23, n. 4, p. 232-240, 2007.  
-  
-TRAEBERT, Jefferson et al. Prevalence, treatment needs, and predisposing factors for 
-traumatic injuries to permanent dentition in 11-13-year-old schoolchildren. Cadernos de 
-Saúde Pública, v. 20, p. 403-410, 2004. 
- 
