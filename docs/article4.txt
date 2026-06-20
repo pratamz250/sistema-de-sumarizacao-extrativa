@@ -1,928 +1,155 @@
- 
- 
- 
- 
- 
- 
- 
- 
-CENTRO UNIVERSITÁRIO DO VALE DO ARAGUAIA – UNIVAR 
- 
- 
- 
- 
- 
- 
- 
-TRAUMA DENTÁRIO RELACIONADO A PRÁTICA 
-ESPORTIVA: RELATO DE CASO 
- 
- 
- 
-JACIELE AMANDA DOS SANTOS 
- 
- 
-Trabalho de Con clusão de Curso apresentado como 
-pré-requisito parcial para obtenção do título de 
-bacharel em odontologia pelo Centro Universitário do 
-Vale do Araguaia, so b orientação da Professor (a) 
-Me. Twigg Mitsue Daltro Hayashida. 
- 
- 
- 
- 
-Barra do Garças – MT, novembro de 2022. 
- 
- 
-DEDICATÓRIA  
-Este trabalho é todo dedicado à minha mãe, pois é graças ao seu esforço que hoje posso 
-concluir o meu maior sonho. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
-AGRADECIMENTOS 
- 
-A Deus, pela minha vida, e por me permitir ultrapassar todos os inúmeros obstáculos 
-encontrados ao longo da realização deste trabalho. 
-Agradeço a minha mãe por todo esforço que dedicou a realização desse sonho, por esses 
-5 anos de muitas lutas, por nunca ter me deixado desanimar, e por ser meu exemplo de coragem, 
-dedicação e esforço. 
-Agradeço a minha melhor amiga, companheira e irmã Amanda, por sempre estar ao meu 
-lado, e lembrar-me da minha capacidade, por toda ajuda e por todo cuidado que sempre teve 
-comigo.  
-Agradeço a minha dupla Alessandra Tumulero, por estar ao meu lado durante a 
-execução desse caso clínico e por ser o meu braço direito durante os atendimentos.  
-Agradeço a melhor orientadora que eu poderia ter, por me acalmar, por ser exemplo de 
-profissional e professora, e que mesmo não podendo aceitou ser minha orientadora quando tudo 
-parecia perdido. A você Twigg, a minha eterna gratidão e admiração.  
-A professora Érika, por me mostra o caminho, por toda compreensão, pelas palavras de 
-conforto em meio aos dias em que tudo parecia perdido, e por me mostrar que era possível sim 
-a realização desse trabalho. Obrigada pela paciência e compreensão.  
-Agradeço de coraçã o ao meu paciente, por toda a paciência pela disponibilidade, por 
-sempre aceitar o que era proposto, e por sempre acreditar no meu potencial. 
-Agradeço também a todos os que de alguma maneira contribuíram com este trabalho, 
-especialmente ao Dr Leonardo, por toda ajuda e esclarecimento.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Não sabendo que era impossível, ela foi lá e fez. 
-Jean Cocteau  
- 
- 
-SUMÁRIO 
- 
-RESUMO ................................................................................................................................... 1 
-ABSTRACT .............................................................................................................................. 1 
-1. INTRODUÇÃO .................................................................................................................... 1 
-2. METODOLOGIA ................................................................................................................. 4 
-3. RESULTADOS E DISCUSSÃO. ........................................................................................ 4 
-4. CONSIDERAÇÕES FINAIS ............................................................................................. 14 
-5. REFERÊNCIAS BIBLIOGRÁFICA ................................................................................ 15 
-6. ANEXOS ............................................................................................................................. 17 
- 
- 
- 
- 
- 
- 1 
- 
-TRAUMA DENTÁRIO RELACIONADO A PRÁTICA ESPORTIVA: 
-RELATO DE CASO 
- 
-Jaciele Amanda dos Santos1 
-Twigg Mitsue Daltro Hayashida 2 
- 
-RESUMO 
-As lesões dentárias traumáticas (LDTs)  é a maior razão de atendimento de urgência em um consultório 
-odontológico, ocorrem por consequência de acidentes, práticas esportivas e atos violentos. Em decorrência da alta 
-frequência em que acontece, os traumas dentários são considerados com um problema da saúde pública, sendo as 
-fraturas coronárias e as luxações as LDTs mais comuns. Podem afetar tanto a dentição decídua, quanto a dentição 
-permanente, e em pacientes com qualquer faixa etária, a região mais afetada pelo trauma é a parte anterior da boca, 
-envolvendo incisivos centrais e incisivos laterais.  Podemos citar: necrose pulpar, reabsorção radicular externa e 
-interna, calcificação pulpar, fratura coronária e radicular, escurecimento coronário, anquilose e perca do dente 
-como as principais consequências que um traumatismo dentário pode vir ocasionar ao paciente traumatizado. Um 
-correto diagnóstico, um plano de tratamento e acompanhamento correto são os fatores primordiais para garantir 
-um prognóstico favorável para as LDTs.  
-   
-Palavras-Chave: Atleta, traumatismo, dente permanente, polpa dentária, endodontia. 
- 
-ABSTRACT 
-Traumatic dental injuries (TLDs) are the biggest reason for urgent care in a dental office, they occur as a result of 
-accidents, sports practices and violent acts. Due to the high  frequency in which it occurs, dental trauma is 
-considered a public health problem, with coronary fractures and dislocations being the most common TDIs. They 
-can affect both the primary and permanent dentition, and in patients of any age group, the region most affected by 
-trauma is the anterior part of the mouth, involving central incisors and lateral incisors. We can mention: pulp 
-necrosis, external and internal root resorption, pulp calcification, coronary and root fracture, coronary darkening, 
-ankylosis and tooth loss as the main consequences that a dental trauma can cause to the traumatized patient. A 
-correct diagnosis, a treatment plan and correct follow -up are the main factors to guarantee a favorable prognosis 
-for TDIs. 
-Keywords: Athlete, traumatism, permanent tooth, dental pulp, endodontics 
- 
- 
-1. INTRODUÇÃO 
- 
-O trauma dentário é classificado como um problema de saúde pública em virtude de sua 
-alta frequência e ao resultado que acomete aos pacientes. P ode ocasionar sérios danos , não 
-apenas físicos, como também sociais, psicológicos, comportamentais, dentre outros (LOPES, 
-FERREIRA, 2017).  De acordo com Gonçalves et al. (2017), os incisivos centrais superiores 
-são os dentes mais afetados, pois devido ao seu posicionamento no arco, são os dentes com 
-mais probabilidade aos traumas. A perca de estrutura dental, nos casos de fratura coronária, a 
-                                                           
-1Acadêmica Jaciele Amanda dos Santos do curso de odontologia do Centro Universitário do Vale do Araguaia – 
-jaci.santos08@hotmail.com 
-2 Docente Orientador  Me. Twigg Mitsue Daltro Hayashida do Centro Universitário do Vale do Araguaia – 
-UNIVAR – MT   2 
- 
-alteração de cor da coroa e a avulsão estão associados a possíveis comprometimentos estéticos, 
-podendo trazer impacto negativo na qualidade de vida. 
-Quanto à etiologia do trauma dentário, vários são os fatores relacionados, dentre eles os 
-principais são: impacto, quedas, atividades esportivas, acidentes de carro e bicicleta, dentre 
-vários outros. O traumatismo dentário é comum nas práticas desportivas, principalmente nos 
-esportes em que há maior contato físico (SOUZA, et al., 2018). Pode acontecer com frequência 
-nos praticantes de esportes e afeta uma boa parcela da população, contudo em inúmeras 
-situações a integridade física do atleta é colocada em risco, ainda assim, essa condição pode ser 
-revertida com a prevenção, diminuindo o número e a gravidade das lesões, reduzindo também 
-a prevalência dos traumas e minimizando a severidade dos danos . (SANE e 
-YLIPAAVALNIEMI, 1988). 
-A prática desportiva é por onde advêm mais casos de traumas dentários, sendo alvo de 
-análise em diversos estudos. Forsberg e Tedestam (1993) apresentaram que de 13 a 39% d os 
-traumas dentários estão relacionados a prática esportiva, e de 4 a 18% são lesões maxilofaciais. 
-Os traumas relacionados a atletas, correspondem a terceira maior procura por atendimento em 
-um consultório odontológico, e assim é definido como um caso de saúde pública, que ocasiona 
-diversos danos à saúde desse tipo de paciente, o prognóstico provem do diagnóstico das regiões 
-acometidas e do tempo compreendido entre o trauma  e o atendimento , e da colaboração do 
-paciente. (MARINATO et al., 2018).  
-As alterações bucais podem ocasionar à redução do desempenho do atleta, p ortanto, o 
-tratamento do mesmo engloba diversas especialidades odontológicas, com o propósito de 
-promover sua saúde bucal, buscando prevenir as fraturas dos ossos da face e dos dentes como 
-também lesões de língua, lábios e bochechas (MOURA, 2017). Quando a presentar as 
-consequências da má condição de saúde bucal de atletas devemos levar em consideração  os 
-mecanismos que englobam  situações de dor, efeitos sobre a alimentação,  impactos sócio 
-psicológicos, aumento da  carga inflamatória sistêmica, infecções e outros, que colocam em 
-risco a saúde do atleta e influenciam na participação das suas atividades (SOUZA, 2017) 
-A odontologia para esportistas, é ainda, um assunto recente e com poucas publicações , 
-aparece com o objetivo de, prevenir e reconhecer problemas de saúde bucal  que podem 
-interferir e reduzir o desempenho e desenvolvimento do atleta, e assim não ficar por conta de 
-tratar os problemas já ocasionados pelo trauma (RIBEIRO et al., 2020). No decorrer do tempo, 
-o percentual de pessoas que praticam  atividade física ve m aumentando significativamente, e 
-desse modo, houve o aumento também das lesões provenientes dessa atividade. A possibilidade 
-do atleta sofrer lesões que acometem a região orofacial é de 10% a mais que as pessoas que não 3 
- 
-realizam nenhum tipo de atividade , ocasionando, bloqueios das funções e danos psicológicos 
-(RIBEIRO et al., 2020). 
-Pelo fato de englobar inúmeras etiologias, a prevenção do traumatismo dentário deve 
-envolver diversas ár eas de conhecimento. Cirurgiões -dentistas e especia listas em esportes 
-preconiza o uso de protetores bucais personalizados durante as práticas esportivas, para prevenir 
-possíveis lesões dentárias, além de reduzir significativamente a incidência de trauma associado 
-ao esporte, e a gravidade das lesões . A utilização de protetores bucais de materiais plásticos 
-moldáveis e personalizados  de acordo com sua modalidade esportiva , é a mais recomendada 
-forma de pr evenção na prática dessas atividades . Essencialmente em esportes onde há maior 
-contato físico e impacto (TSUCHIYA et al., 2017). 
-Pedra et al. (2019) a odontologia esportiva ainda é um assunto novo, e diversos clubes, 
-atletas e técnicos ainda não adotaram à utilização do protetor bucal de forma preventiva. Visto 
-que ele visa preservar a integridade das estruturas do aparelho estomatognático e a integridade 
-mental do atleta, um trauma orofacial pode ocasionar problemas sociais graves.  A confecção 
-de um aparelho bucal individualizado, deve ser desenvolvido sob a orientação de um 
-profissional capacitado , o que proporciona uma apropriada  precaução contra os impactos e  
-assim também  absorver, minimizar e disseminar essas forças, inibir fraturas ou também 
-estabiliza-las como em avulsões dentais (BARBOZA et al., 2018). 
-Os traumatismos resultante s das práticas desportivas, apresentam uma particularidade 
-em relação a outros: a possibilidade de prevenção,  diminuindo ou eliminando a incidência e a 
-extensão das lesões. O aparecimento e o desenvolvimento dos protetores bucais levaram a uma 
-diminuição da extensão e severidade das lesões na cavidade oral, em razão da proteção de todas 
-as estruturas dentárias e periodontais. ( MARANEZ et al., 2019). Qualquer atleta que tenha a 
-possibilidade de sofrer um impacto de objetos, quedas, contato físico, ou qualquer outro meio 
-que possa vir a resultar em lesões na região oral, recomenda -se a confecção utilização do 
-protetor bucal (BARBOZA et al., 2018).  
-O protetor bucal atua absorvendo e dissipando a força de uma colisão e, tem a finalidade 
-de trazer proteção aos tecidos bucais, pontas dos dentes, impedindo cortes e lacerações 
-(MARINATO et al., 2018). De acordo com Vilela (2021), o papel do Cirurgião-Dentista é de 
-fundamental importância como parte da equipe multidisciplinar. Vale ressaltar que a utilização 
-de protetores bucais quando bem adaptados e confeccionados de acordo com cada atleta sendo 
-sob suas medidas e sua especialidade é de suma importância, já que este dispositivo tem grande 
-valor na prevenção de traumas físicos e, portanto, com isso observamos o quanto é importante 
-o incentivo do uso de protetores bucais. 4 
- 
-Neste contexto, este trabalho apresenta o objetivo de descrever um caso clínico de 
-traumatismo dentário em um atleta corredor na modalidade de meio fundo, discutir e  elucidar 
-o tratamento realizado. 
- 
-2. METODOLOGIA 
- 
-Este trabalho constitui um relato de caso de caráter qualitativo do qual um p aciente do 
-sexo masculino, atleta na modalidade corredor de meio fundo praticante das provas 1500m e 
-3000m, J.P.A. 17 anos de idade, juntamente com o seu representante legal, procurou 
-atendimento de urgência na clínica integrada de odontologia do UNIVAR (Centro Universitário 
-do Vale do Araguaia), com um trauma dentário, envolvendo os dentes 11, 12, 21 e 22, e tecidos 
-moles dessa mesma região, causado por uma queda enquanto praticava atividade esportiva, ao 
-primeiro atendimento, realizou então o reposicionamento dos dentes inserindo-os para dentro 
-do alvéolo, colocou-se contenção semi -rígida de ca nino a canino, realizou a restauração da 
-fratura envolvendo o dente 21, fez -se necessário realizar sutura na s lacerações de tecido mole 
-que ocorreu na região da gengiva livre e gengiva inserida e em região de lábio superior, com o 
-fio de sutura 5.0 de nylon , foi necessário a prescrição de  terapia medicamentosa, da qual os 
-medicamentos de escolha foram a dipirona, amoxicilina e dexametasona, e vacina antitetânica 
-como dose de reforço, e então o paciente foi encaminhado para acompanhamento e possível 
-tratamento endodôntico posterior.  
- 
-3. RESULTADOS E DISCUSSÃO. 
- 
-As imagens a seguir são de autoria própria, registradas na Clínica de Endodontia do 
-Centro Universitário do Vale do Araguaia – Univar  
- 
-  
-Figura 1e 2: Diagnóstico inicial 
-5 
- 
-Na figura 1 e 2, podemos identificar o trauma sofrido na região anterio r da maxila. Ao 
-exame clínico notou-se que no dente 11, 12 e 22 apresentava um quadro de luxação intrusiva, 
-já o dente 21 apresentava-se com deslocamento parcial do dente para fora do alvéolo em direção 
-incisal e alto grau de mobilidade indicando uma luxação extrusiva, o mesmo apresentava fratura 
-de tábua óssea vestibular e também uma fratura coronariana não co mplicada confinada a 
-esmalte e dentina. Ao examinar o tecido mole, observou que havia lacerações na gengiva livre 
-e gengiva inserida na região do dente 21, abrasão no lábio superior e lábio inferior, realizou 
-então o reposicionamento dos dentes inserindo-os delicadamente para dentro do alvéolo com a 
-ajuda do fórceps nº 150 e em seguida realizou a restauração em resina composta na cor A3, da 
-fratura coronariana não complicada envolvendo o dente 21. 
-Para MILORO et al., 2010, a fratura coronariana não complica da é uma fratura que 
-envolve apenas o esmalte e a dentina, sem exposição pulpar. Recomenda-se a aplicação de um 
-agente adesivo seguido por uma restauração de resina composta. O autor define  luxação 
-extrusiva como uma condição em que há um deslocamento parcial do dente para fora do 
-alvéolo. O tratamento para esse caso consite no reposicionamento do dente para dentro do 
-alvéolo e estabilização com contenção semi-rígida por 2 a 3 semanas. 
- 
-  
-Figura 3 : Paciente com contenção semi-rígida. 
+3. RESULTADOS E DISCUSSÃO.
+As imagens a seguir são de autoria própria, registradas na Clínica de Endodontia do
+Centro Universitário do Vale do Araguaia – Univar
+Na figura 1 e 2, podemos identificar o trauma sofrido na região anterio r da maxila. Ao
+exame clínico notou-se que no dente 11, 12 e 22 apresentava um quadro de luxação intrusiva,
+já o dente 21 apresentava-se com deslocamento parcial do dente para fora do alvéolo em direção
+incisal e alto grau de mobilidade indicando uma luxação extrusiva, o mesmo apresentava fratura
+de tábua óssea vestibular e também uma fratura coronariana não co mplicada confinada a
+esmalte e dentina. Ao examinar o tecido mole, observou que havia lacerações na gengiva livre
+e gengiva inserida na região do dente 21, abrasão no lábio superior e lábio inferior, realizou
+então o reposicionamento dos dentes inserindo-os delicadamente para dentro do alvéolo com a
+ajuda do fórceps nº 150 e em seguida realizou a restauração em resina composta na cor A3, da
+fratura coronariana não complicada envolvendo o dente 21.
+Para MILORO et al., 2010, a fratura coronariana não complica da é uma fratura que
+envolve apenas o esmalte e a dentina, sem exposição pulpar. Recomenda-se a aplicação de um
+agente adesivo seguido por uma restauração de resina composta. O autor define  luxação
+extrusiva como uma condição em que há um deslocamento parcial do dente para fora do
+alvéolo. O tratamento para esse caso consite no reposicionamento do dente para dentro do
+alvéolo e estabilização com contenção semi-rígida por 2 a 3 semanas.
 Na figura 3  observamos os dentes já reposicionados e então colocou-se contenção semi-
-rígida de canino a canino, utilizand o o fio ortodôntico Twist flex,  fez-se necessário realizar 
-sutura nas lacerações de tecido mole que ocorreu na região da gengiva livre e gengiva inserida  
-do dente 21 e lábio superior com o fio de sutura 5.0 de nylon. 
-A imobilização é considerada a melhor forma para manter o dente reposicionado em 
-sua posição correta e para favorecer a cicatrização inicial, proporcionando conforto e função 
-controlada (KAHLER; HEITHRSAY, 2008). 
-6 
- 
-Foi necessário a prescrição de terapia medicamentosa sendo o analgésico dipirona por 
-3 dias com recomendação de tomar somente em caso de dor, amoxicilina e dexametasona, e 
-vacina antitetânica como dose de reforço.  
-A utilização de antibióticos permanece a critério do clínico, uma vez que as lesões 
-dentárias traumáticas são frequentemente acompanhadas por lesões de tecidos moles e 
-associadas com outros tipos de lesão, que podem exigir intervenções cirúrgicas (HINCKFUSS; 
-MESSER, 2009). 
-  
- 
-As figuras 4 e 5, são imagens de uma radiografia periapical, inicialmente solicitada para 
-melhor diagnóstico dos dentes 11 e 21, na figura 4 podemos observar uma área  radiopaca 
-sugestiva de reabsorção radicular inflamatória externa no ápice do dente 11, e na lateral distal 
-de sua raiz , após essa radiografia iniciou -se o tratamento o endodôntico desse mesmo dente, 
-afim de tentar conter a reab sorção radicular. Já na figu ra 5  temos a radiografia final do 
-tratamento endodôntico do dente 11, e também podemos observar, várias áreas de reabsorção 
-radicular inflamatória externa ao longo da raiz mesial, distal e terço apical do dente 21, o mesmo 
-foi encaminhado para tratamento endodôntico.  
-As reabsorções radiculares externas apresentam -se como escavações ou cavidades na 
-superfície lateral da raíz, a lâmina dura geralmente apresenta -se com aspecto normal. Isso 
-ocorre devido ao dano causado ao ligamento periodontal e ao cemento (MILORO et al., 2010). 
-Figura 4 e 5: Exame complementar radiográfico  7 
- 
- 
- 
- 
-Na figura 6, temos uma radiografia periapical dos dentes 12 e 13, solicitadas para análise 
-das raízes dentárias, no dente 12 observamos uma áre a radiopaca na região  apical indicando 
-também um começo de reabsorção radicular inflamatória externa, e então deu-se o início do 
-tratamento endodôntico dos dentes 12 e 21, mencionado na figura anterior. 
- 
- 
- 
- 
-Na figura 7 podemos observar a radiografia de selamento radicular do canal do dente 
-21.  
-Figura 6: Exame complementar radiográfico dos dentes 12 e 13  
-Figura 7: Radiografia de selamento do canal radicular dente 21. 8 
- 
-Em casos em que a reabsorção radicular apresenta -se com uma grande área envolvida, 
-invadindo o canal radicular e/ou principalmente, com a presença de tecido necrosado dentro do 
-canal radicular, necessita então de uma intervenção endodôntica (PATEL & BEDDIS, 2019). 
- 
- 
-Figura 8: Fístulografia   
-Figura 8: paciente compareceu a consulta de continuação do tratamento endodôntico 
-apresentando uma fístula na região do dente 12, foi realizado então fistulografia com cone de 
-guta percha e então realizado radiografia periapical para descobrir a origem exata da lesão. 
- 
- 
-Após o rastreamento da fístula foi realizado a radiografia periapical para identificação do local 
-exato da lesão, após a tomada radiográfica, notou-se que a fístula era proveniente de uma lesão 
-que se encontrava na área cervical do dente 12, foi então realizado medicação intracanal com 
-pasta de hidróxido de cálcio P.A e soro fisiológico. Paciente foi encaminhado para selamento 
-Figura 9: Exame radiográfico complementar para análise de fístulografia  
- 9 
- 
-do canal radicular desse mesmo dente, e posteriormente a cirurgia de acesso para colocação de 
-medicação no local exato da lesão. (Figura 9) 
+rígida de canino a canino, utilizand o o fio ortodôntico Twist flex,  fez-se necessário realizar
+sutura nas lacerações de tecido mole que ocorreu na região da gengiva livre e gengiva inserida
+do dente 21 e lábio superior com o fio de sutura 5.0 de nylon.
+A imobilização é considerada a melhor forma para manter o dente reposicionado em
+sua posição correta e para favorecer a cicatrização inicial, proporcionando conforto e função
+controlada (KAHLER; HEITHRSAY, 2008).
+6
+Foi necessário a prescrição de terapia medicamentosa sendo o analgésico dipirona por
+3 dias com recomendação de tomar somente em caso de dor, amoxicilina e dexametasona, e
+vacina antitetânica como dose de reforço.
+A utilização de antibióticos permanece a critério do clínico, uma vez que as lesões
+dentárias traumáticas são frequentemente acompanhadas por lesões de tecidos moles e
+associadas com outros tipos de lesão, que podem exigir intervenções cirúrgicas (HINCKFUSS;
+MESSER, 2009).
+As figuras 4 e 5, são imagens de uma radiografia periapical, inicialmente solicitada para
+melhor diagnóstico dos dentes 11 e 21, na figura 4 podemos observar uma área  radiopaca
+sugestiva de reabsorção radicular inflamatória externa no ápice do dente 11, e na lateral distal
+de sua raiz , após essa radiografia iniciou -se o tratamento o endodôntico desse mesmo dente,
+afim de tentar conter a reab sorção radicular. Já na figu ra 5  temos a radiografia final do
+tratamento endodôntico do dente 11, e também podemos observar, várias áreas de reabsorção
+radicular inflamatória externa ao longo da raiz mesial, distal e terço apical do dente 21, o mesmo
+foi encaminhado para tratamento endodôntico.
+As reabsorções radiculares externas apresentam -se como escavações ou cavidades na
+superfície lateral da raíz, a lâmina dura geralmente apresenta -se com aspecto normal. Isso
+ocorre devido ao dano causado ao ligamento periodontal e ao cemento (MILORO et al., 2010).
+Na figura 6, temos uma radiografia periapical dos dentes 12 e 13, solicitadas para análise
+das raízes dentárias, no dente 12 observamos uma áre a radiopaca na região  apical indicando
+também um começo de reabsorção radicular inflamatória externa, e então deu-se o início do
+tratamento endodôntico dos dentes 12 e 21, mencionado na figura anterior.
+Na figura 7 podemos observar a radiografia de selamento radicular do canal do dente
+21.
+Em casos em que a reabsorção radicular apresenta -se com uma grande área envolvida,
+invadindo o canal radicular e/ou principalmente, com a presença de tecido necrosado dentro do
+canal radicular, necessita então de uma intervenção endodôntica (PATEL & BEDDIS, 2019).
+apresentando uma fístula na região do dente 12, foi realizado então fistulografia com cone de
+guta percha e então realizado radiografia periapical para descobrir a origem exata da lesão.
+Após o rastreamento da fístula foi realizado a radiografia periapical para identificação do local
+exato da lesão, após a tomada radiográfica, notou-se que a fístula era proveniente de uma lesão
+que se encontrava na área cervical do dente 12, foi então realizado medicação intracanal com
+pasta de hidróxido de cálcio P.A e soro fisiológico. Paciente foi encaminhado para selamento
+do canal radicular desse mesmo dente, e posteriormente a cirurgia de acesso para colocação de
+medicação no local exato da lesão. (Figura 9)
 A fistulografia consiste em um exame realizado através da inserção de um cone de guta-
-percha pelo trajeto fistuloso até chegar em um ponto que apresente resistência, em seguida 
-realiza-se uma tomada radiográfica periapical, e assim pode -se identificar o local responsável  
-pela lesão (LOPES, SIQUEIRA, 2020). 
- 
- 
- 
-A figura 10 representa uma radiografia peirapical do selamento do conduto radicular do 
-dente 12, por este dente apresentar-se com uma fenestração no terço cervical optou-se por não 
-realizar a técnica de compactação termomecânica dos cones de guta percha  e do cimento 
-obturador pela técnica Híbrida de Tagg er, utilizando o condensador de McSpadden. Paciente 
-encaminhado para cirurgia endodôntica de reparação. 
- 
- 
-Figura 10: Radiografia periapical de selamento do canal radicular do dente 12. 
-Figura 11: Cimento obturador  10 
- 
-Na figura 1 1, temos o cimento obturador de escolha para o selamento dos canais 
-radiculares dos dentes 12 e 21. O Bio-C® Sealer (Angelus, Brasil) foi o material de escolha  
-para o tratamento p or se tratar de um material biocompat ível e bioativo, que estimula a 
-formação de tecido mineralizado, ocorrendo assim a reparação.  
-O Bio-C® Sealer (Angelus, Brasil) é um cimento biocerâmico e bioativo desenvolvido 
-para preenchimento e selamento permanentes durante o tratamento do canal radicular é 
-composto por silicatos de cálcio, aluminato de cálcio, óxido de cálcio, óxido de zircônio, óxido 
-de ferro, dióxido de silício e agentes  dispersantes. Promove a liberação de íons cálcio e assim 
-estimulando a formação de tecido mineralizado (López et al.,2019). 
- 
- 
- 
-Após selamento de todos os canais radiculares que apresentava necessidade de  
-tratamento endodôntico, foi realizado moldagem para confecção de um protetor bucal de 
-silicone. (Figura 12)  
-A técnica para confecção do protetor bucal individualizado constitui -se na moldagem 
-do paciente, confecção do modelo de gesso, recorte do modelo e delimitação de toda a área de 
-trabalho, com envolvimento de todos os dentes, exceto dos 3º molares (MARINATO et al., 
-2018). 
-Figura 12: Moldagem para confecção de protetor bucal 11 
- 
- 
- 
-Após assepsia intra -oral com clorexidina a 2% e assepsia extra -oral com clorexidina 
-0,12%, foi realizado  o bloqueio do nervo alveolar superior an terior e complemento com a 
-técnica infiltrativas. (Figura 13) 
- 
-  
- 
-Foi realizado incisão intrasulcular com a lâmina de bisturi nº 15 do dente 11 até o dente 
-13, em seguida foi feito o descolamento de toda a mucosa com o descolador de Molt 2 -4, e 
-assim rebatido o retalho dessa região e expondo a região cervical do dente 12 que era a região 
-de interesse. (Figura 14 e 15) 
-Na cirurgia externa ocorre em um primeiro momento a exposição da área da lesão. Deste 
-modo é realizado um retalho, expondo o dente da lesão quanto os dentes da lateral, tanto na 
-mesial quanto na distal (JOHNS et al., 2013). 
- 
-Figura 13: Anestesia 
-Figura 14 e 15: Incisão intrasulcular e descolamento da mucosa. 12 
- 
- 
- 
-A figura 16 elucida a curetagem com cureta de Gracey 5 -6, para a remoção das fibras 
-presentes na região da cirurgia.  
-Após rebatimento do retalho, limpeza da área e irrigação com soro fisiológico , a lesão 
-fica mais aparente, proporcionando  a remoção do tecido de granulação  e as fibras da região 
-cirurgica. A remoção é feita de forma manual com auxílio  de curetas – curetas Gracey, 
-(BACHESK et al., 2021). 
- 
-  
-  
- 
-Na figura 17 temos o acesso ao local da comunicação realizado com a broca 1014HL. 
-Na figura 18 temos a remoção do material obturador realizado com a ponta de ultrassom.  
-Para uma área lisa e limpa na dentina para a colocação do material de preenchimento é 
-realizada a eliminação e regularização do tecido mineralizado (EFTEKHAR et al., 2017). 
-Recomenda-se a remoção de tecido e material obturador com o auxílio de magnificação 
-e de insertos ultrassônicos, removendo-se somente o que é necessário, preservando as estruturas 
-circunvizinhas (ROTONDI et al ,.2020). 
-Figura 16: Curetagem 
-Figura 17 e 18: Acesso a comunicação e remoção do material obturador 13 
- 
-  
- 
-Nas figuras 19 e 20, temos o material de escolha para preenchimento da comunicação, 
-do qual optou -se pelo MTA Repair ®  (Angelus, Brasil), sendo preparado para inserção na 
-comunicação.  
-O MTA Repair® (Angelus, Brasil) possui excelentes propriedades biológicas, apresenta 
-biocompatibilidade, bioatividade, osteocondutividade e alcalinidade.  A ação antimicrobiana é 
+percha pelo trajeto fistuloso até chegar em um ponto que apresente resistência, em seguida
+realiza-se uma tomada radiográfica periapical, e assim pode -se identificar o local responsável
+pela lesão (LOPES, SIQUEIRA, 2020).
+A figura 10 representa uma radiografia peirapical do selamento do conduto radicular do
+dente 12, por este dente apresentar-se com uma fenestração no terço cervical optou-se por não
+realizar a técnica de compactação termomecânica dos cones de guta percha  e do cimento
+obturador pela técnica Híbrida de Tagg er, utilizando o condensador de McSpadden. Paciente
+encaminhado para cirurgia endodôntica de reparação.
+Na figura 1 1, temos o cimento obturador de escolha para o selamento dos canais
+radiculares dos dentes 12 e 21. O Bio-C® Sealer (Angelus, Brasil) foi o material de escolha
+para o tratamento p or se tratar de um material biocompat ível e bioativo, que estimula a
+formação de tecido mineralizado, ocorrendo assim a reparação.
+O Bio-C® Sealer (Angelus, Brasil) é um cimento biocerâmico e bioativo desenvolvido
+para preenchimento e selamento permanentes durante o tratamento do canal radicular é
+composto por silicatos de cálcio, aluminato de cálcio, óxido de cálcio, óxido de zircônio, óxido
+de ferro, dióxido de silício e agentes  dispersantes. Promove a liberação de íons cálcio e assim
+estimulando a formação de tecido mineralizado (López et al.,2019).
+Após selamento de todos os canais radiculares que apresentava necessidade de
+tratamento endodôntico, foi realizado moldagem para confecção de um protetor bucal de
+silicone. (Figura 12)
+A técnica para confecção do protetor bucal individualizado constitui -se na moldagem
+do paciente, confecção do modelo de gesso, recorte do modelo e delimitação de toda a área de
+trabalho, com envolvimento de todos os dentes, exceto dos 3º molares (MARINATO et al.,
+2018).
+Após assepsia intra -oral com clorexidina a 2% e assepsia extra -oral com clorexidina
+0,12%, foi realizado  o bloqueio do nervo alveolar superior an terior e complemento com a
+técnica infiltrativas. (Figura 13)
+Foi realizado incisão intrasulcular com a lâmina de bisturi nº 15 do dente 11 até o dente
+13, em seguida foi feito o descolamento de toda a mucosa com o descolador de Molt 2 -4, e
+assim rebatido o retalho dessa região e expondo a região cervical do dente 12 que era a região
+de interesse. (Figura 14 e 15)
+Na cirurgia externa ocorre em um primeiro momento a exposição da área da lesão. Deste
+modo é realizado um retalho, expondo o dente da lesão quanto os dentes da lateral, tanto na
+mesial quanto na distal (JOHNS et al., 2013).
+A figura 16 elucida a curetagem com cureta de Gracey 5 -6, para a remoção das fibras
+presentes na região da cirurgia.
+Após rebatimento do retalho, limpeza da área e irrigação com soro fisiológico , a lesão
+fica mais aparente, proporcionando  a remoção do tecido de granulação  e as fibras da região
+cirurgica. A remoção é feita de forma manual com auxílio  de curetas – curetas Gracey,
+(BACHESK et al., 2021).
+Na figura 17 temos o acesso ao local da comunicação realizado com a broca 1014HL.
+Na figura 18 temos a remoção do material obturador realizado com a ponta de ultrassom.
+Para uma área lisa e limpa na dentina para a colocação do material de preenchimento é
+realizada a eliminação e regularização do tecido mineralizado (EFTEKHAR et al., 2017).
+Recomenda-se a remoção de tecido e material obturador com o auxílio de magnificação
+e de insertos ultrassônicos, removendo-se somente o que é necessário, preservando as estruturas
+circunvizinhas (ROTONDI et al ,.2020).
+Figura 16: Curetagem
+Figura 17 e 18: Acesso a comunicação e remoção do material obturador 13
+Nas figuras 19 e 20, temos o material de escolha para preenchimento da comunicação,
+do qual optou -se pelo MTA Repair ®  (Angelus, Brasil), sendo preparado para inserção na
+comunicação.
+O MTA Repair® (Angelus, Brasil) possui excelentes propriedades biológicas, apresenta
+biocompatibilidade, bioatividade, osteocondutividade e alcalinidade.  A ação antimicrobiana é
 em virtude da liberação de íons de hidroxila, o que torna assim p pH do local alcalino, tornando-
-o improprio para a sobrevivência de microrganismos (GIÓN-GUERRA et al., 2021). 
- 
-  
-  
- 
-Após a colocação do material na região da comunicação, foi realizado sutura em alça 
-do retalho, com o fio de N ylon 4.0, e radiografia final para verificar se ocorreu tudo correto 
-com o procedimento. (Figura 21 e 22) 
-Realiza-se exame complementar radiográfico para conferir se tudo ocorreu conforme o 
-planejado, então realiza a reposição do retalho e, finalmente a sutura (GIÓN-GUERRA et al., 
-2021). 
-Figura 19 e 20:  Manipulação do material reparador MTA Repair 
-Figura 21 e 22: Radiografia final e sutura do retalho 14 
- 
- 
- 
-Na figura 23 , o paciente retornou 7 dias após a ciru rgia para remoção de sutura e 
-avaliação de cicatrização do local que foi realizado a cirurgia e então solicitado e recomendado 
-proservação do caso.  
-A proservação é realizado a cada 3 e 6 meses respectivamente para analisar e verificar 
-a normalidade das con dições pulpares, periapicais, periodontais e se houve reparo do defeito 
-(AGRAWAL, KAPOOR, 2020). 
- 
-  
-  
- 
-Entrega e instalação do aparato bucal individualizado e personalizado para o atleta e sua 
-modalidade esportiva. (Figura 24 e 25) 
-No ato da entrega do protetor bucal, deve-se realizar o acabamento e polimento, realizar 
-a provar no paciente e, se for necessário, realizar ajustes (MARINATO et al., 2018). 
- 
-4. CONSIDERAÇÕES FINAIS 
- 
-Conclui-se que o trauma dentário é um problema de saúde pública, devido à grande 
-quantidade em que ocorrem, os dentes anteriores são os dentes mais acometidos devido a sua 
-Figura 23: Retirada das suturas e cicatrização 
-Figura 24 e 25: Entrega de protetor bucal  15 
- 
-posição no arco dentário. A prática esportiva é um dos principais fatores que levam ao 
-acometimento das lesões, e pode acarretar problemas psicológicos, sociais, impactos na 
-alimentação, infecções e outras intercorrências que afetam tanta a saúde geral como também o 
-rendimento físico do atleta. Com isso é imprescindível que o uso de protetor bucal é de suma 
-importância para os atletas, uma vez que eles reduzem a prevalência dos traumas e minimizam 
-a gravidade dos danos.  
-Desta forma, entende -se que o cirurg ião-dentista precisa fazer parte da equipe 
-multidisciplinar dos atletas, para que assim atue na prevenção e no tratamento dos traumas 
-decorridos da própria prática esportiva, além de manter uma correta manutenção da saúde bucal, 
-pois uma vez que se tem uma boa condição do sistema estomatognático isso reflete diretamente 
-na saúde geral e em uma melhor performance para o atleta. Entende -se também que os 
-especialistas da área odontológica devem realizar promoções em saúde informando os atletas 
-dos riscos que u m trauma pode acarretar e também informar sobre os benefícios do uso dos 
-protetores bucais, e desta forma, se tenha uma diminuição nos índices de traumas por falta de 
-protetor bucal.  
- 
-5. REFERÊNCIAS BIBLIOGRÁFICA 
- 
-AGRAWAL, V. S.; KAPOOR, S. Management of root canal stenosis and external 
-inflammatory resorption by surgical root reconstruction using biodentine. Journal of 
-Conservative Dentistry: JCD, v. 23, n. 1, p. 102, 2020. 
- 
-ANTUNES LAA, SOUZA HMR, GONÇALVES PHPQ, CRESPO MA, ANTUNES LS. 
-Trauma dental e protetor bucal: conhecimento e atitudes em estudantes de graduação em 
-educação física. Rev. bras. educ. fís. esp. [S.L.], v. 30, n. 2, p. 287- 294, jun. 2016. 
- 
-BACHESK, A. B. et  al. Clinical Approach to External Cervical Resorption in the Anterior 
-Teeth: A Case Report Study. Iranian Endodontic Journal, v. 16, n. 2, p. 118-122, 2021 
- 
-BARBOZA FGOF, SEABRA LMA, MENIDA DLT, LIRA RM. Protetor bucal em atividades 
-esportivas para crianças e adolescentes. Rev. ele. Estácio sau, v. 7, n. 1, p. 57-64, 2018. 
- 
-EFTEKHAR, L.; ASHRAF, H.; JABBARI, S. Management of invasive cervical root resorption 
-in a mandibular canine using biodentine as a restorative material: A case report. Iranian 
-endodontic journal, v. 12, n. 3, p. 386, 2017. 
- 
-FORSBERG, C. M.; TEDESTAM, G. Etiological and predisposing factors related to traumatic 
-injuries to permanent teeth. Swedish Dental Journal, Stockholm, v. 17, n.5, p.183-190,1993. 
- 16 
- 
-GIÓN-GUERRA, B. et al. Performance of the dentogingival junction with mta and biodentine 
-on the treatment of invasive cervical resorptions. A literature review and case report . Journal 
-of clinical and experimental dentistry, v. 13, n. 1, p. e95, 2021. 
- 
-GONÇALVES, B. M., et al. O Impacto Do Traumatismo Dental e Do Comprometimento 
-Estético Na Qualidade De Vida De Pré -Escolares; Rev Paul Pediatr, v. 35, p. 448 -445, ano 
-2017 
- 
-HINCKFUSS SE, MESSER LB. An evidence -based assessment of the clinical guidelines for 
-replanted avulsed teeth. Part II: pr escription of systemic antibiotics. Dent Traumatol  
-2009;25:158–64. 
- 
-JOHNS, D. A. et al. Invasive cervical root resorption: Engineering the lost tissue by 
-regeneration. Contemporary clinical dentistry, v. 4, n. 4, p. 536, 2013 
- 
-KAHLER B, HEITHERSAY GS. Uma avaliação baseada em evidências da imobilização de 
-dentes luxados, avulsionados e com fratura radicular. Dent Traumatol. 2008;24:2– 10 
- 
-LOPES LBPM, FERREIRA JF. Traumatismos dentários em esportes de contato. Rev. gauch. 
-odontol., v. 65, n. 3, p. 237-242, 2017. 
- 
-LOPES  HP, SIQUEIRA   JF . Endod ontia: Biologia e Técnica. GEN - Grupo Editorial 
-Nacional. 5. ed. Rio de Janeiro: Guanabara Koogan;2020. 
- 
-LÓPEZ-GARCÍA S, PECCI-Lloret MR, GUERRERO-Gironés J, PECCI-Lloret MP, Lozano 
-A, Llena C, Rodríguez -Lozano FJ, Forner L. Comparativo de Citocompatibilidade e 
-Potencial de Mineralização do Bio -C Sealer e TotalFill  BC 
-Sealer. Materiais . 2019; 12(19):3087. https://doi.org/10.3390/ma12193087 
- 
-MARANEZI, Beatriz Leal Esteves et al. Protetor bucal na prevenção de traumatismos orais 
-durante prática esportiva. 2019. 
- 
-MARINATO, Maria Julia Scheidegger; RAMOS, Kerlen Torres; PEREIRA, Rubia Caus. AA 
-importância do uso do protetor bucal na prática esportiva: revisão de literatura.  Revista 
-Científica Faesa, v. 13, n. 1, 2018. 
- 
-MOURA MT, Daltro R, Almeida T. Traumas Faciais: Uma Revisão Sistemática da Literatura. 
-Revista Da Faculdade De Odontologia. 2017;21(3):331-337. 
- 
-MILORO, Michael et al.  Princípios de cirurgia bucomaxilofacial de Peterson . 3. ed. São 
-Paulo: Santos Editora, 2016. 1344 p 
- 
-MOURA, A. P. F Odontologia desportiva e o desempenho dos atletas. Universidade de São 
-Paulo. 2017. 
- 
-PATEL, J.; BEDDIS, H. P. How to assess and manage external cervical resorption. British 
-dental journal, v. 227, n. 8, p. 695-701, 2019 
- 17 
- 
-PEDRA, F.A.; SANTOS A.A,; GONÇALVES V.P.D.; MONTEIRO M.R.; MORALES A.P.; 
-O uso de protetor bucal e o impacto sobre a performance de atletas: estado atual da arte. 30th 
-ed. Revista Perspectivas Online, Biológicas e Saúde, 2019. 11 p. 9 v 
- 
-RIBEIRO CS, SANTOS RMG, ANDRADE EP. Odontologia do Esporte: revisão da 
-literatura sobre a saúde bucal voltada para atletas. Trabalho de conclusão de curso. UNIT-
-PE. 2020. 
- 
-ROTONDI, O.; WALDON, P.; KIM, S. G. The Disease Process, Diagnosis and Treatment of 
-Invasive Cervical Resorption: A Review. Dentistry Journal, v. 8, n. 3, p. 64, 2020. 
- 
-SANE J, YLIPAAVALN IEMI P.; LEPPANEN H.; Maxillofacial and dental ice hockey 
-injuries. Med Sci Sports Exerc, 1988. 20(2):202-207. 
- 
-SOUZA, L. B., et al. Conhecimento e uso de protetor bucal por professores e alunos praticantes 
-de artes marciais: um estudo transversal. Revista de Iniciação Científica da Universidade 
-Vale do Rio Verde, Três Corações, v. 8, n. 1, p. 130-143, 2018. 
- 
-SOUZA, L. B., et al. Conhecimento e uso de protetor bucal por professores e alunos praticantes 
-de artes marciais: um estudo transversal. Revista de Iniciação Científica da Universidade Vale 
-do Rio Verde, Três Corações, v. 8, n. 1, p. 130-143, 2018. 
- 
-SOUZA, B. C. (2017). Saúde bucal do atleta: Uma relação paradoxal com a qualidade de 
-vida?Brazilian Journal of Surgery and Clinical Research, 20(1), 147-150. 
- 
-TSUCHIYA, S. et al. Factors associated with sports -related dental injuries among young 
-athletes: a cross-sectional study in Miyagi prefecture. BMC Oral Health, v.17, n.168, p.1-9, 
-2017. 
- 
-VILELA, Afonso Fernandes; PEREIRA, Samantha Peixoto. Novas perspec tivas da 
-odontologia do esporte para o cirurgião dentista. Repositório de Trabalhos de Conclusão de 
-Curso, UNIFACIG, 2021.  
- 
-6. ANEXOS 
- 
- 
- 
- 
- 
- 
- 
- 
- 18 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-19 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 20 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 21 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 22 
- 
- 
- 
- 
- 
- 
-  
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+o improprio para a sobrevivência de microrganismos (GIÓN-GUERRA et al., 2021).
+Após a colocação do material na região da comunicação, foi realizado sutura em alça
+do retalho, com o fio de N ylon 4.0, e radiografia final para verificar se ocorreu tudo correto
+com o procedimento. (Figura 21 e 22)
+Realiza-se exame complementar radiográfico para conferir se tudo ocorreu conforme o
+planejado, então realiza a reposição do retalho e, finalmente a sutura (GIÓN-GUERRA et al.,
+2021).
+Na figura 23 , o paciente retornou 7 dias após a ciru rgia para remoção de sutura e
+avaliação de cicatrização do local que foi realizado a cirurgia e então solicitado e recomendado
+proservação do caso.
+A proservação é realizado a cada 3 e 6 meses respectivamente para analisar e verificar
+a normalidade das con dições pulpares, periapicais, periodontais e se houve reparo do defeito
+(AGRAWAL, KAPOOR, 2020).
+Entrega e instalação do aparato bucal individualizado e personalizado para o atleta e sua
+modalidade esportiva. (Figura 24 e 25)
+No ato da entrega do protetor bucal, deve-se realizar o acabamento e polimento, realizar
+a provar no paciente e, se for necessário, realizar ajustes (MARINATO et al., 2018).
+4. CONSIDERAÇÕES FINAIS
+Conclui-se que o trauma dentário é um problema de saúde pública, devido à grande
+quantidade em que ocorrem, os dentes anteriores são os dentes mais acometidos devido a sua
+Figura 23: Retirada das suturas e cicatrização
+Figura 24 e 25: Entrega de protetor bucal  15
+posição no arco dentário. A prática esportiva é um dos principais fatores que levam ao
+acometimento das lesões, e pode acarretar problemas psicológicos, sociais, impactos na
+alimentação, infecções e outras intercorrências que afetam tanta a saúde geral como também o
+rendimento físico do atleta. Com isso é imprescindível que o uso de protetor bucal é de suma
+importância para os atletas, uma vez que eles reduzem a prevalência dos traumas e minimizam
+a gravidade dos danos.
+Desta forma, entende -se que o cirurg ião-dentista precisa fazer parte da equipe
+multidisciplinar dos atletas, para que assim atue na prevenção e no tratamento dos traumas
+decorridos da própria prática esportiva, além de manter uma correta manutenção da saúde bucal,
+pois uma vez que se tem uma boa condição do sistema estomatognático isso reflete diretamente
+na saúde geral e em uma melhor performance para o atleta. Entende -se também que os
+especialistas da área odontológica devem realizar promoções em saúde informando os atletas
+dos riscos que u m trauma pode acarretar e também informar sobre os benefícios do uso dos
+protetores bucais, e desta forma, se tenha uma diminuição nos índices de traumas por falta de
+protetor bucal.
