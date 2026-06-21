@@ -19,7 +19,7 @@ def main():
 
     finalText = ""
 
-    with open("article.txt", "w", encoding="utf-8") as file:
+    with open("article4.txt", "w", encoding="utf-8") as file:
         for i in range(1, numPages):
             currentPage = reader.pages[i]
             currentText = currentPage.extract_text()
