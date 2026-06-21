@@ -1,4 +1,3 @@
- Introdução 
  O  uso  de  drogas  pela  população  atualmente  representa  um  grave  problema  de  saúde 
  pública,  pois  interfere  diretamente  na  vida  pessoal,  familiar  e  de  toda  comunidade.  Dados 
  apontam  que,  globalmente,  mais  de  296  milhões  de  pessoas  usaram  drogas  em  2021,  um 
@@ -30,7 +29,6 @@
  objetivo  do  presente  artigo  de  revisão  de  literatura  é  descrever  as  principais  manifestações 
  bucais  associadas  ao  uso  das  drogas  lícitas  e  ilícitas  mais  utilizadas  atualmente,  bem  como  os 
  cuidados que devem ser tomados durante o atendimento odontológico desses pacientes. 
- Revisão de literatura 
  O  uso  de  substâncias  lícitas  e  ilícitas  pode  iniciar  na  adolescência  ou  durante  a  velhice  7  e  os 
  efeitos  adversos  provocados  pelas  drogas  podem  ser  agudos  ou  crônicos,  sendo  eles 
  duradouros  ou  irreversíveis,  desencadeando  complicações  mentais  e  físicas.  Ademais,  os 
@@ -65,7 +63,6 @@
  interação  biológica  das  drogas  com  a  fisiologia  normal  da  cavidade  oral  e  dos  efeitos  das  drogas 
  na  função  cerebral  que  resultam  em  um  espectro  de  comportamentos  de  dependência,  como 
  comportamento de risco, falta de higiene e descuido. 
- Classificações das drogas 
  A  palavra  “droga”  refere-se  a  qualquer  substância,  natural  ou  sintética,  capaz  de 
  alterar  as  funções  de  um  indivíduo,  promovendo  alterações  fisiológicas  ou  comportamentais 
  pela ação no Sistema Nervoso Central  (SNC)  17,18  . 
@@ -85,8 +82,6 @@
  garantir  o  tratamento  adequado  ao  paciente  toxicodependente.  De  acordo  com  a  literatura,  o 
  álcool  e,  na  sequência,  o  tabaco  são  as  substâncias  mais  consumidas  com  capacidade 
  psicoativa, seguindo-se os medicamentos psicoativos e as drogas recreativas ilícitas  20,21  . 
- Drogas lícitas mais consumidas 
- Álcool 
  É  conhecido  como  um  líquido  incolor,  oriundo  da  fermentação  de  cereais,  raízes  e  frutos, 
  com  concentrações  que  podem  variar  de  5%  a  20%.  Trata-se  de  uma  substância  química 
  produzida  mediante  a  fermentação  do  açúcar  encontrado  em  vários  produtos  de  origem 
@@ -121,7 +116,6 @@
  o  profissional  deve  dar  uma  atenção  especial  na  hora  de  prescrever  medicamentos  para  controle 
  da  dor  e  infecções  de  pacientes  dependentes  de  álcool,  como  o  paracetamol,  visto  que  a 
  associação desses elementos apresenta alto potencial hepatotóxico. 
- Tabaco 
  O  tabaco  vem  de  uma  planta  denominada  cientificamente  Nicotiana  tabacum  ,  da  qual  é 
  extraída  uma  substância  chamada  nicotina  e  mais  usados  atualmente,  na  forma  de  cigarro.  O 
  tabaco  é  a  segunda  substância  psicoativa  mais  consumida  no  mundo,  com  mais  de  um  bilhão  de 
@@ -152,7 +146,6 @@
  estimulá-los  a  pararem  de  fumar.  Deste  modo,  os  profissionais  de  saúde  bucal  possuem  um 
  papel  fundamental  na  cessação  do  hábito  de  fumar  e  na  prevenção  de  efeitos  adversos 
  ocasionados pelo uso do tabaco. 
- Benzodiazepínicos 
  Os  benzodiazepínicos  são  fármacos  psicotrópicos  que  agem  de  modo  a  produzir  efeitos 
  sobre  o  sistema  nervoso  central  (SNC).  A  classe  dos  benzodiazepínicos,  especificamente,  atua 
  diretamente  na  estimulação  do  ácido  gama-aminobutírico  –  GABA,  neurotransmissor  responsável 
@@ -169,8 +162,6 @@
  Partindo  dessas  afirmações,  é  dever  do  cirurgião-dentista  orientar  o  paciente  sobre  esses  efeitos 
  adversos  e  também  sobre  as  possíveis  consequências  que  o  uso  desse  grupo  de  medicamentos 
  pode gerar  . 
- Drogas ilícitas mais consumidas 
- Maconha 
  No  Brasil  a  Cannabis  sativa  é  denominada  de  maconha  49  ,  sendo  esta  a  segunda  substância 
  mais  fumada  em  nossa  sociedade,  depois  do  tabaco.  A  maconha  geralmente  é  fumada  em 
  cigarros  feitos  à  mão,  chamado  de  “baseado”,  em  cachimbo  de  água  ou  vaporizador. O  seu  uso 
@@ -195,7 +186,6 @@
  comunicação  clara  e  sem  julgamento  do  paciente  sobre  o  uso  de  cannabis,  não  apenas  para 
  abordar  os  riscos  de  longo  prazo  para  a  saúde  bucal,  mas  também  para  evitar  possíveis 
  problemas relacionados à segurança do paciente na prática odontológica. 
- Anfetaminas 
  As  anfetaminas  são  drogas  sintéticas  e  causam  dependência,  pois  estimulam  o  SNC.  A  ação 
  dessas  drogas  baseia-se  na  inibição  da  recaptação  de  dopamina,  noradrenalina/  adrenalina  e 
  serotonina,  as  chamadas  monoaminas,  outros  mecanismos  adicionais  que  levam  à  liberação 
@@ -223,7 +213,6 @@
  arritmias  cardíacas,  infarto  do  miocárdio  e  acidentes  cerebrovasculares. Também  é  importante 
  repassar  orientações  relativas  à  higiene  oral,  assim  como  utilizar  medidas  preventivas  que 
  ajudem na remineralização dos dentes. 
- Cocaína e crack 
  A  cocaína  é  um  alcaloide  produzido  biossinteticamente  a  partir  da  Erthroxylum  coca  ,  uma 
  nativa  das  terras  altas  andinas  e  do  norte  da  Amazônia  na  América  do  Sul.  Atualmente,  é 
  encontrada  de  duas  formas:  Cloridrato  de  cocaína  (também  conhecido  como  'coca',  'sopro'  ou 
@@ -260,7 +249,6 @@
  com  óxido  nitroso  podem  ser  contraindicados.  Portanto,  de  forma  geral,  recomenda-se  que  o 
  atendimento  odontológico  eletivo  seja  realizado  24  horas  após  o  uso  de  droga  estimulante 
  (cocaína, crack, anfetamina) ou cannabis. 
- Considerações finais 
  O  consumo  de  substâncias  psicoativas,  seja  a  curto  ou  longo  prazo,  pode  desencadear 
  consequências,  tanto  na  saúde  geral  como  na  saúde  bucal  do  usuário.  A  partir  da  literatura,  é 
  possível  constatar  que  efeitos  na  cavidade  oral  variam  de  acordo  com  o  tipo  de  substância 

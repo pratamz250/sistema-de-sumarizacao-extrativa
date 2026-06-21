@@ -1,5 +1,3 @@
-3 RESULTADOS E DISCUSSÃO 
-3.1 EPIDEMIOLOGIA 
 Estudos de base populacional sobre a prevalência do traumatismo dento alveolar no 
 Brasil são escassos. As lesões provenientes de traumas aos tecidos dentários e periodontais 
 podem acontecer de forma isolada ou associada a outras lesões traumáticas da face e são, 
@@ -32,7 +30,6 @@ sobre o traumatismo dentário e seus fatores de riscos e obteve como resultados 
 são semelhantes a dados encontrados em outros países. No entanto, foram destacadas algumas 
 diferenças, como os indicadores relativos ao gênero e ao meio socioeconômico, os quais foram 
 os fatores de risco mais prevalentes no Brasil (SOARES et al., 2018). 
-3.2 ETIOLOGIA 
 As lesões às estruturas dento alveolares podem ser causadas por diversos tipos de 
 trauma. As causas mais comuns para estas injúrias são as quedas (da própria altura ou de nível), os acidentes automobilísticos, os acidentes desportivos ou recreativos e a violência física. 
 Devido à natureza destes traumas, lesões dento alveolares, com frequência, são acompanhadas 
@@ -62,7 +59,6 @@ prevalentes nessa faixa etária foram referentes a comportamentos não saudávei
 consumo excessivo de álcool e de drogas, além de problemas na saúde mental, entre e les, 
 estresse, depressão e ideais de suicídio, e de intensa atividade física sem proteção adequada 
 (KIM et al., 2020).  
-3.3 PREVENÇÃO DO TRAUMATISMO DENTOALVEOLAR 
 As estratégias de prevenção no nível individual com o potencial de reduzir a prevalência 
 e a intensidade dos traumatismos dento alveolares são escassas. Essas estão associadas aos 
 fatores predisponentes ao trauma dental. Entre esses, incluem-se o uso adequado de equipamentos de proteção, como capacetes, 
@@ -119,7 +115,6 @@ Desse modo, com uma maior proliferação de conhecimentos relaci onados às medi
 preventivas do traumatismo dentário, as consequências advindas dessa vertente serão 
 minimizadas e haverá uma intervenção mais eficaz, assim como uma melhora significativa na 
 qualidade de vida das pessoas sujeitas ao trauma dental. 
-4 CONSIDERAÇÕES FINAIS 
  O traumatismo dentário é apontado como um problema de saúde pública, não só pela 
 sua alta prevalência na população, mas também pela sua repercussão psicossocial no 
 cotidiano dos indivíduos. Disseminar o conhecimento acerca da etiologia e prevenção, 
