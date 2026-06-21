@@ -1,1 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos de swap
 *.swp
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Saídas geradas automaticamente
+data/raw/
+data/summaries/
