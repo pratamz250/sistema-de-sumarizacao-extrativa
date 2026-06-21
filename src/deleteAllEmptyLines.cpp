@@ -1,3 +1,10 @@
+/*
+* Um pequeno script para remover linhas em branco de um arquivo .txt
+* Compile: $ g++ deleteAllEmptyLines.cpp -o deleteAllEmptyLines.x
+* Run: $ ./deleteAllEmptyLines.x <entrada> <saida>
+* Ex.: $ ./deleteAllEmptyLines.x ~/sistema-de-sumatizacao-extrativa/data/raw/article1.txt ~/sistema-de-sumatizacao-extrativa/data/raw/o1.txt
+* */
+
 #include <iostream>
 #include <fstream>
 #include <string>
