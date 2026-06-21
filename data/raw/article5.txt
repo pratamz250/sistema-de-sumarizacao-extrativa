@@ -1,5 +1,3 @@
-2 TIPOS DE PERIODONTITE E SUAS CARACTERÍSTICAS
-2.1 PERIODONTITE CRÔNICA
 A periodontite crônica é definida como uma doença infecciosa que resulta em
 inflamação dentro dos tecidos de suporte dos dentes, formação de placa dentária, inflamação
 periodontal, perda de inserção do dente e óssea alveolar. No entanto fatores sistêmicos e 3
@@ -25,7 +23,6 @@ exacerbam a resposta imune do hospedeiro. Além disso, a idade é um fator que p
 para a gravidade da doença em razão da prevalência da perda de inserção e perda óssea. A
 gravidade da doença pode ser classificada como leve, moderada ou grave, de acordo com a
 perda de inserção clínica (DOMMISH. KEBSCHULL, 2016).
-2.2 PERIODONTITE AGRESSIVA
 A periodontite agressiva apresenta um conjunto de microrganismos com grande
 heterogenicidade de bactérias (KONONEN; MULLER, 2000 apud CHAVES et al., 2017). É
 uma doença pouco comum e de progressão rápida, caracterizada pela perda acentuada dos
@@ -40,13 +37,11 @@ Acerca dos sintomas, destaca -se a sensibilidade, o edema, sangramento gengival,
 ardência, mobilidade dos dentes afetados, possibilidade de ocorrência de recessão gengiva l.
 Clinicamente nota-se pouco a moderado acúmulo de placas bacterianas, inflamação discreta,
 ou, uma perda de inserção rápida e severa (ALMEIDA et al., 2014).
-2.3 FATORES DE RISCO PARA PERIODONTITE
 A causa principal da doença periodontal é a placa bacteriana, uma película viscosa e sem
 cor que se forma sobre os dentes, conhecida também como biofilme dental. Os fatores de risco
 são o tabagismo, alterações hormonais, estresse, diabetes, má nutrição, medicamentos, genética
 (SANTOS; SIQUEIRA, 2016), vír us da imunodeficiência humana adquirida (HIV),
 osteoporose (ANTONINI et al., 2013), entre outros.
-2.3.1 Tabagismo
 Segundo Preshaw; Cambrone; Novak (2016) o tabagismo é o principal fator de risco
 para a doença periodontal afetando a prevalência e a gravidade da doença. A fumaça do cigarro
 é formada por vários componentes, na qual fazem parte o monóxido de carbono e a nicotina,
@@ -59,7 +54,6 @@ Igualmente o tabagismo afeta a vascularização dos tecidos gengivais, as respos
 e inflamatória e também o potencial de cicatrização do tecido conjunt ivo periodontal, fazendo
 com que a resposta do paciente ao tratamento seja negativa (Matos, 2011 apud SANTOS,
 SIQUEIRA, 2016). 5
-2.3.2 Alterações hormonais: puberdade, gestação e menopausa
 O desequilíbrio hormonal da fase puberal masculina e feminina pode agir como um fator
 desencadeador de gengivite (AXELSON, 1976; KORNORNMAN; LOESCH, 1980;
 CARRANZA, 1986; LEVIN, 1987 apud SPEZZIA, 2016). A inflamação gengival na
@@ -82,14 +76,12 @@ secas e brilhantes, sua coloração pode variar de pálida a eritematosa e sangr
 Pode haver queixa de secura, ardor pela cavidade oral, associada sensibilidade nas alterações
 térmicas, o paladar apresenta-se mais acentuado, como consequência a paciente sente com mais
 intensidade os sabores salgado, apimentado e azedo (KLOKKEVOLD; MEALEY, 2016).
-2.3.3 Estresse
 O estresse é uma resposta do organismo a uma situação de esforço e adaptação a um
 estímulo capaz de afetar o equilíbrio fisiológico, os hábitos de vida e o comportamento do
 indivíduo, que podem fazer a pessoa desenvolver hábitos orais danosos, como neglige nciar a
 higiene oral, contribuindo para a presença de biofilme dental. O estresse também pode 6
 contribuir para a baixa imunidade, propensão a processos inflamatórios e evolução da doença
 periodontal (OLIVEIRA, 2015).
-2.3.4  Diabetes
 O Diabetes mellitus é uma doença que se caracteriza pelo excesso de glicose no sangue,
 e, quando não controlada, pode ocasionar complicações sistêmicas crônicas (YAMASHITA et
 al., 2013). As modificações de maior impacto em indivíduo com diabetes descontrolada é a
@@ -105,7 +97,6 @@ tanto em pacientes com diabetes mellitus do tipo 1 (YAMASHITA et al., 2013) quan
 para a severidade da doença periodontal (MEALEY; OCAMPO, 2007 apud BARBOSA, 2013),
 podendo levar, segundo Klokkevold e Mealey (2016) a doença periodontal destrutiva,
 considerada como a sexta complicação do diabetes.
-2.3.5 Nutrição inadequada
 Segundo Campos, Demonte e Campos (2002) a falta das vitaminas A, C, D e dos
 minerais c álcio, fósforo, ferro e zinco possuem relação com a etiologia das doenças
 periodontais, havendo necessidade do profissional dentista fazer o aconselhamento nutricional
@@ -121,7 +112,6 @@ Para Nizel e Papas (1989) apud Freire (et al,  2012), apenas na falta de vitamin
 tecidos periodontais do ser humano são efetivamente afetados, complicando a resposta
 inflamatória à irritação local. Ainda assim, de modo geral, afirmam que o periodonto é
 beneficiado com uma nutrição adequada (NIZEL, PAPAS, 1989 apud Freire et al, 2012).
-2.3.6 Medicamentos
 Estudos científicos indicam que vários medicamentos de uso sistêmico alteram a
 morfologia e fisiologia dos tecidos periodontais, principalmente o gengival, contribuindo para
 o aumento exagerado da gengiva, dificultando o controle do biofilme dental e a condição física
@@ -134,7 +124,6 @@ segundo Ramalho (et al., 2003) apud Soares; Soares (2017) para a prevenção da 
 transplantes e controle de doenças autoimunes como artrite reumatoide, esclerose múltipla,
 psoríase, líquem plano, pênfigo bolhoso, lúpus eritematoso, diabetes mellitus, miast enia grave
 e algumas glomerulopatias.
-2.3. 7 Genética
 As doenças gengivais de origem genética podem acometer os tecidos do periodonto.
 Uma das condições mais clinicamente evidentes é a fibromatose gengival hereditária
 (HINRICHS; KOTSAKIS, 2016). Trata -se de uma condição genética incomum, que se
@@ -144,13 +133,11 @@ extracelular (BABU et al., 2011; LAI et al., 2011 apud ANDRADE, 2017).  Para Gol
 al., 1992); Bittencourt (et al., 2000); Clorcheret (et al., 2003) apud ANDRADE (2017) na
 fibromatose pode ocorrer sangramento e perda óssea, devido ao excesso de tecido gengival,
 presença de pseudo-bolsas e acúmulo de biofilme.
-2.3. 8 Vírus da imunodeficiência humana (HIV)
 O vírus da imunodeficiência humana é um retrovírus adquirido principalmente por via
 sexual (sexo desprotegido) e sanguínea (objetos perfuro-cortantes contaminados). Esse vírus se
 replica no corpo humano nas células do sistema imunológico, tornando o corpo vulnerável à
 infecção. A alteração da microbiota oral também ocorre, propiciando o desenvolvimento de
 lesões gengivais e periodontais (PAULIQUE et al., 2017).
-2.3. 9 Osteoporose
 A osteoporose é um agravo osteometabólico caracterizado por perda de massa óssea e
 deterioração da microarquitetura do tecido ósseo com consequente vulnerabilidade óssea e
 maior suscetibilidade a fraturas (SPEZZIA, 2014).
@@ -160,7 +147,6 @@ perimenopausa, momento em que os níveis de estrogênio diminuem. A deficiência
 estrogênio, a perda precoce de densidade óssea e a osteoporose juntas são fatores de risco que
 podem desempenhar um papel significante no progresso da periodontite (KLOKKEVOLD;
 MEALEY, 2016).
-2.4 DIAGNÓSTICO DA DOENÇA
 O diagnóstico da periodontite crônica ocorre por meio de avaliação do nível de inserção
 clínica e detecção de alterações inflamatórias na gengiva livre, medições nas profundidades da
 bolsa periodontal e a localização da gengiva marginal possibilitam conclu sões pertinentes a 9
@@ -175,8 +161,6 @@ características da própria doença periodontal, tais como nível de inflamaç�
 da coroa e da raiz e morfologia do defeito ósseo (FERREIRA et al 2013).
 Chaves (et al., 2017) relata que para diagnosticar a periodontite agressiva é necessário
 a avaliação dos dados clínicos, de imagem e pela agregação genética familiar.
-2.5 FORMAS DE TRATAMENTOS DA PERIODONTITE
-2.5.1 Tratamento não cirúrgico
 A remoção frequente de placa, cálculo e outros elementos incorporadas ao cemento
 periodontal, por meio de raspagem supra e subgengival, alisamento radicular e polimento
 coronário, é o tratamento periodontal mais efetivo para se obter uma superfície radicular limpa
@@ -191,7 +175,6 @@ no tratamento de periodontite, devido sua eficácia contra os micróbios.  Igual
 tratamento fitoterápico a base de extrato de aroeira (DIAS; SILVA; LIMA, 2015) e erva
 Camomila apresentam-se eficazes quando associado  ao tratamento convencional (ZANCA et
 al., 2016).
-2.5. 2 Tratamento cirúrgico
 O tratamento cirúrgico inclui técnicas de cirurgia plástica adotada  para criar ou
 aumentar a gengiva por meio da colocação de enxertos. Cirurgia estética, usada para cobrir
 raízes desnudadas e recriar papilas perdidas. Também pode ser utilizada técnicas pré-proteicas
@@ -204,7 +187,6 @@ bolsa e na correção dos problemas morfológicos relacionados com as alteraçõ
 Igualmente a f ase cirúrgica objetiva corrigir defeitos morfológicos anatômicos que podem
 contribuir para o acúmulo de placa e a recorrência das bolsas ou afetar a estética (HENRY,
 CARRANZA, 2016).
-2.6 PREVENÇÃO DA PERIODONTITE
 A prevenção das doenças periodontais se d á pelo controle regular do biofilme
 microbiano, por meio de métodos mecânicos, mecânico -químicos ou associação entre esses
 (PONTES et al., 2007 apud FERREIRA et al., 2013), realizados na consulta clínica. Após a
@@ -216,7 +198,6 @@ nos prazos determinados pelo profissional para a consulta de manutenção, como 
 fazer elogios, rechamadas por meio de telefonemas, e -mails, entre outros. Além disso, prestar
 informações frequentes sobre a doença periodontal, simplificar procedimentos e manter uma
 boa relação profissional paciente (BARROS et al, 2014).
-5 CONSIDERAÇÕES FINAIS
 Essa pesquisa teve como objetivo, analisar as causas e tratamentos da periodontite.
 Portanto, chegou as seguintes conclusões:  1º - A periodontite é uma doença inflamatória que
 acomete os tecidos de proteção e sustentação dos dentes, podendo ser classificada como

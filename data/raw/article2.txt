@@ -1,4 +1,3 @@
-3. Resultados  
 As lesões dentarias traumáticas (LDTs) são todas as formas de transmissões de energia ao dente e/ou as estruturas que 
 o sustentam. Essas transmissões de forças excessivas ao elemento dentário podem decorrer em fraturas dentais. A d epender da 
 gravidade, as fraturas podem impactar na função,  saúde e estética do paciente acometido. Os trata mentos das fraturas dentárias 
@@ -18,8 +17,6 @@ e não podem ser ignoradas, tendo em vista a carência de cada caso. A conduta t
 detalhada com atenção as especificidad es de ca da caso e um t ratamento resolutivo. Os tipos de tr aumas podem ser divididos 
 em (1) Lesões aos tecidos duros e (2) Lesões aos tecidos de sustentação, as quais serão especificadas a seguir (Moccelini et al., 
 2018). 
-4 
-3.1 Lesões aos tecidos duros 
 Segundo a classificação de Andreasen, as lesões aos tecidos duros dentais, são classificadas em fratura incompleta de 
 esmalte, fratura coronária não complicada, fratura coronária complicada, fratura corono -radicular, fratura radicular e fratura do 
 processo alveolar (Petti et al., 2022). 
@@ -59,7 +56,6 @@ Radiograficamente, observa -se uma linha translúcida a nível de raiz dividindo
 tratamento se b aseia no reposicionamento do fragmento coronário o mais depressa possível. É necessário checar o 
 posicionamento pela radiografia estabilizando o fragmento com contenção flexível durante 4 semanas por meio de fio 
 ortodôntico com a finalidade de promover reparação entre os fragmentos fraturados (Soares et al., 2011). 
-5 
 Há uma alta pro babilidade de as fraturas cervicais cicatrizarem, com is so o fragmento cervical não deve ser retirado 
 principalmente na ausência de mobilidade. O tratamento p ulpar n ão deve ser realizado na consulta inicial, é recomendado 
 acompanhar a cicatrização da fratura e vitalidade pulpar por no minimo 1 ano, depois de um período poderá ocorrer o processo 
@@ -67,7 +63,6 @@ de necrose pulpar apenas do fragmento coronário sendo necess ário tratamento d
 para delimitar o ápice do c anal. Em dentes que apresentam a linha da fratura acima da crista óssea , geralmente o fragmento da 
 coroa apresenta mobilidade e é indicada sua remoção, tratamento pulpar e reconstrução coronária com pino intra -radicular 
 (Barros., 2020). 
-3.2 Lesão aos tecidos de sustentação  
 A concussão é caracterizada por ser um traumatismo de pequena intensidade sobre os tecidos de sustentação, sem 
 deslocamento e mobilidade do dente (Silva et al., 2021). 
 Diante disso não há indicação de tratamento, mas  cabe ao Cirurgião Dentista realizar acompanhamento entre 6 a 8 
@@ -100,7 +95,6 @@ semanas se tiver alguma fratura e/ou colapso de osso marginal. No caso de necros
 pacientes devem ser observados e realizar exam e radiográfico por no mínimo 5 anos. Quando não se tem p resença de  
 sintomatologia, e na radiografia pe riapical mostra um periodonto normal ou cicatrizado tende a ter um prognóstico favorável, 
 quando apresenta necrose pulpar, infecção o prognose é considerado d esfavorável (Lago et al., 2023). 
-6 
 A avulsão é a lesão  de tecidos de sustentação mais comum, é um tipo de traumatismo dento alveolar em que há o 
 deslocamento do elemento dental para fora do alvéolo. Tendo maior incidência de traumas de av ulsão em adolescentes do sexo 
 masculino, e em bebês após  o seu nascimento até a média de idade de 18 anos , e as causas dessa lesão é variável podendo ser 
@@ -109,8 +103,6 @@ reimplante de dentes decíduos avulsionados não é recomendado. A princípio re
 exames radiográfico, um diagnóstico precoce tem mais chance de ser bem sucedido. Caso não tenha o diagnóstico precoce, 
 pode-se ocasionar danos ao elemento dental suce ssor e tende a ter um prognóstico ruim, devendo a companhar de 6 meses a 1 
 ano (Day et al., 2020). 
-4. Discussão 
-4.1 Lesões aos tecidos duros 
 A trinca de esmalte é uma fratura sem perca estrutural quando fa lamos em trincas de esmalte damos espaço a variados 
 tipos de ranhuras ao esmalte de diferentes profundidades. No estudo de Mamoun et al.  (2015), considera que os dentes 
 quebrados ou rachados podem geram problemas biomecânicos, que associados a outr as fraturas podem gerar dor. O 
@@ -141,7 +133,6 @@ suavização das bordas com finalidade reconstru tora. No caso de fratura envolv
 que a conduta t omada pelo dentista pode ser recolar o fragmento caso es teja intacto e reidratado com soro fisiológico ou fazer 
 uma restauração cobrindo a dentina exposta com ionômero de vidro, adesivo e resina composta (Diangelis et al., 2012).  
 O manejo das lesões converge com o estudo de Santos et al.  (2010) onde em seu relato d e caso defende a restauração 
-7 
 em resina composta para rec onstrução dos elementos em fratura de coroa, pont uando que as resinas compostas microhíbridas 
 apresentam normalmente um tipo de partícula,  sendo indicadas para regiões estéticas pois apresentam uma alta cap acidade de 
 polimento e boa estabilidade de cor, embora possa haver uma tendência de fratura secundaria em altas tensões. Já as resinas 
@@ -178,12 +169,9 @@ alterações pós  traumáticas dependem principalmente do tempo e do tipo do at
 necrose pulpar como a alteração tardia mais comum em  todos os tipos de traumas, menos n a concussão, devido a exposição de 
 túbulos de dentina sem a adequada restauração imediata ou exposição da fratura a invasão bacteriana e posterior necrose 
 pulpar. 
- 
-4.2 Lesão aos Tecidos de Sustentação   
 A concussão afeta os tecidos de sustentação de forma minuciosa, nã o ocasiona mo bilidade no dente e deslocamento 
 no elemento dentário Koerte et al. (2020).  Mostrou diferença significativa quanto ao gênero, tend o maior prevalência no sexo 
 masculino. No estudo de Alhaddad et  al. (2019), também mostrou que os homens sofreram mais lesões ao comparar com as 
-8 
 mulheres 61,45% e 38,54.  
 No estudo de Yang e colaboradores. (2021) diante dos dados analisados do Departamento de Emergência Oral da 
 Escola de Estomatologia  da Univer sidade de Pequim realizou a pesquisa com pacientes menor es de 18 anos , tendo maior 
@@ -225,7 +213,6 @@ monitorar sua vit alidade pulpar. Em situações em que o dente intruíu mais do
 cirurgicamente ou ortodonticamente. Nesse mesmo estudo foi informado que  a Associação Caruaruense de Cirurgiões -
 Dentistas participou de uma pesquisa transversal quantitativa sobre lesões de luxação la teral, e q uais condutas terapêu ticas 
 devem ser seguidas, tendo com o resultado d as condutas mais citadas: Exame radi ográfico 97,2%, acompanhamento 88,9%, 
-9 
 reposicionamento dentário 75,7%, dieta pastosa 66% e contenção dentária 52,1%. 
 Com base nesse estudo, concluí que o paci ente deve ser submetido a um acompanhamento com exames radiográficos 
 para prevenir futuros problemas visto que essa lesão pode causar necrose e assim necessitando realizar um canal. No estudo de 
@@ -267,7 +254,6 @@ situações em que os dentes  afetados estão completamente formados.  Diante di
 dente. 
 No estudo de Colak et al. (2009) retrospectivo 70 pacientes com dados coletados através de prontuários odontológicos  
 e fichas de traumas dentários foram acompanhados durante 6 meses a 6 anos, sendo observado que 56 crianças sofreram queda, 
-10 
 afetando principalmen te os incisivos centrais inferiores, dentre eles 60 dentes imp actados foram menores que 2 mm, dois 
 meses depois do trauma, 48 dentes intrusos reerupciona ram espontaneamente. Descoloração da coroa ocorreu em 10 dentes 
 intrusos, necrose pulpar foi diagnosticada em nove casos e r eabsorção radicular pato lógica foi  encontrada em cinco dentes 
@@ -309,11 +295,8 @@ Diante dos aspectos didáticos  e clínicos dos traumas é prec iso analisar o l
 estabelecidas, a fim de saber direcionar o tratamento individualizado e com as especificidades de  cada caso. Inclusive, o exame 
 clínico aliado ao exame radiográfico é necessário para distinguir os tipos de fraturas e a conduta pós trauma Castill o Sánchez et 
 al. (2019). Assim, para que o tratamento dos dentes tr aumatizados a lcance o sucesso almejado, é necessá ria uma cuidadosa 
-11 
 coleta e interpretação dos dados clínicos obt idos, e os protocolos clínic os são elaborados para orientar profissionais, pais e 
 responsáveis visando minimizar as sequelas provenientes destes traumas. 
- 
-5. Conclusão 
 De acordo com os achados científicos foi possível concluir que o traumatismo dentário ocorrer em alta frequência, 
 principalmente na faixa etária entre 1 a 3 anos de idade, send o os i ncisivos centrais superiores os dentes mais atingi dos e, às 
 fraturas de esmalte e luxação intrusiva são as lesões mais prevalentes. 
