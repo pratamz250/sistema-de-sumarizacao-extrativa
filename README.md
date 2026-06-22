@@ -88,22 +88,15 @@ pip install -r requirements.txt
 
 1. **Adicione o arquivo de entrada:**
 Coloque o arquivo que você deseja resumir (PDF ou TXT) na pasta correspondente. Por padrão, o script busca em `data/raw/` ou `data/pdf/`.
-2. **Ajuste o caminho (se necessário):**
-Abra o arquivo `main.py` e verifique se as variáveis `caminho_pdf` e `caminho_saida` estão apontando para os locais corretos do seu computador. Use barras normais (`/`) para evitar erros de leitura no Windows.
-```python
-caminho_pdf = 'data/raw/seu_arquivo_aqui.pdf'
-caminho_saida = 'data/processed/resumo_final.txt'
-
-```
 
 
-3. **Execute o script principal:**
+2. **Execute o script principal:**
 No terminal, na raiz do projeto, digite:
 ```bash
-python main.py
+python src/main.py <caminho_pdf> <caminho_saida>
 
 ```
 
 
-4. **Verifique o resultado:**
+3. **Verifique o resultado:**
 O terminal exibirá o progresso de cada etapa (Ingestão, Pré-processamento, Grafo, etc). Ao finalizar com sucesso, o seu resumo estruturado estará salvo e pronto para leitura no caminho de saída definido (ex: `data/processed/resumo_final.txt`).
