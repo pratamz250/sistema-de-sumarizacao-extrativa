@@ -80,7 +80,13 @@ pip install -r requirements.txt
 
 ```
 
-*(Nota: O script Python já está configurado para baixar automaticamente os pacotes internos do NLTK, como `punkt` e `stopwords`, na primeira execução).*
+**4. Baixar o NLTK:**
+É preciso fazer o setup do NLTK para rodar o projeto. Execute:
+```bash
+python src/setup_nltk.py
+```
+
+*(Nota: Assim o NLTK é baixado apenas uma vez e o script verifica se já foi baixado em outras execuções).*
 
 ---
 
@@ -93,10 +99,20 @@ Coloque o arquivo que você deseja resumir (PDF ou TXT) na pasta correspondente.
 2. **Execute o script principal:**
 No terminal, na raiz do projeto, digite:
 ```bash
-python src/main.py <caminho_pdf> <caminho_saida>
+python src/main.py <caminho_pdf> <caminho_saida> "<frase inicial>" "<frase final>"
 
 ```
+
+*(Nota: as entradas "\<frase inicial\>" e "\<frase final\>" correspondem aos escopos inicial e final, respectivamente, de onde o resumo vai começar 
+terminar. Por exemplo, se quiser ignorar a seção "agradecimentos" do seu artigo e também a seção "referências").*
 
 
 3. **Verifique o resultado:**
 O terminal exibirá o progresso de cada etapa (Ingestão, Pré-processamento, Grafo, etc). Ao finalizar com sucesso, o seu resumo estruturado estará salvo e pronto para leitura no caminho de saída definido (ex: `data/processed/resumo_final.txt`).
+
+## 🎯 Exemplo de uso
+
+1. **Exemplo após instalação de depêndias e setup:**
+```bash
+python src/main.py data/pdf/artigo1.pdf data/processed/resumo_artigo1.txt "Discussão" "Referências"
+```
