@@ -1,27 +1,109 @@
-# Sistema de Sumarizacao Extrativa
+# Sistema de Sumarização Extrativa Baseado em Grafos
 
-Este projeto gera um resumo extrativo a partir de um texto de entrada. O resumo e formado por frases do proprio artigo, escolhidas de acordo com a relevancia calculada por similaridade textual e PageRank.
+Este projeto gera um resumo extrativo automático a partir de um documento de entrada (PDF ou TXT). O resumo é formado por frases do próprio texto original, escolhidas de acordo com sua relevância estrutural e semântica, calculada através de similaridade textual e algoritmos de centralidade em grafos (TextRank/PageRank).
 
-## Fluxo do algoritmo
+## Fluxo do Algoritmo
 
-**Carrega o texto:** carrega o conteudo do arquivo `docs/article.txt`.
+O pipeline de dados da aplicação segue as seguintes etapas:
 
-**Limpeza:** remove espacos repetidos e trechos indesejados do texto, deixando o conteudo mais uniforme para processamento.
+1. **Carrega o texto:** Ingestão do conteúdo bruto do arquivo de origem (ex: `data/raw/documento.pdf` ou `docs/article.txt`).
+2. **Limpeza:** Remove espaços repetidos, quebras de linha indesejadas, paginações e trechos irrelevantes, deixando o conteúdo mais uniforme para processamento.
+3. **Separa frases:** Segmenta o texto em sentenças individuais e descarta frases muito curtas, que normalmente carregam pouca informação útil para o resumo.
+4. **Vetorização (TF-IDF / Frequência):** Transforma cada frase em um vetor numérico, destacando palavras importantes em cada frase em relação ao conjunto completo e removendo ruídos (stopwords).
+5. **Similaridade do cosseno:** Compara os vetores das frases para medir o quanto elas são parecidas entre si. Responde à pergunta: *"O quanto duas frases abordam o mesmo contexto?"*
+6. **Grafo ponderado:** Cria uma rede (grafo) em que cada frase é um vértice (nó), e as arestas representam as similaridades que ficaram acima do limiar definido.
+7. **PageRank (TextRank):** Calcula a importância de cada frase com base nas conexões do grafo. Frases parecidas com muitas outras frases relevantes tendem a receber uma pontuação maior. Responde à pergunta: *"Qual frase é a mais central e importante dentro do documento?"*
+8. **Remoção de redundância:** Aplica filtros para evitar a seleção de frases muito parecidas entre si, reduzindo repetições no texto final.
+9. **Limite de compressão (20%):** Limita o tamanho do resumo a uma porcentagem específica (ex: 20% ou 30%) da quantidade de frases do texto original processado.
+10. **Ordenação (Fila/Lista):** Ordena as frases selecionadas vencedoras pela sua posição original no texto-base, preservando a cronologia e a ordem natural da leitura.
+11. **Resumo final:** Junta as frases selecionadas, formata em parágrafos ou tópicos e salva o resultado automaticamente na pasta de saída (ex: `data/processed/.txt`).
 
-**Separa frases:** separa o texto em frases e descarta frases muito curtas, que normalmente carregam pouca informacao para o resumo.
+---
 
-**TF-IDF:** transforma cada frase em um vetor numerico, destacando palavras importantes em cada frase em relacao ao conjunto completo.
+## 📂 Estrutura do Projeto
 
-**Similaridade do cosseno:** compara os vetores das frases para medir o quanto elas sao parecidas entre si. "O quanto duas frases são parecidas?"
+Recomenda-se organizar os arquivos da seguinte maneira:
 
-**Grafo ponderado:** cria um grafo em que cada frase e um vertice, e as arestas representam similaridades acima do limiar definido.
+```text
+meu_sumarizador/
+│
+├── data/
+│   ├── raw/               # Coloque seus arquivos originais aqui (ex: pcdt.pdf)
+│   └── processed/         # Onde os resumos gerados (.txt) serão salvos
+│
+├── src/
+│   ├── ingestion.py       # Lógica de leitura de arquivos e Regex
+│   ├── preprocessing.py   # Limpeza de linguagem natural (PLN)
+│   ├── graph_model.py     # Criação da matriz, Grafo e PageRank
+│   └── summarizer.py      # Seleção, ordenação e formatação do texto
+│
+├── main.py                # Script principal que orquestra a aplicação
+├── requirements.txt       # Lista de dependências do Python
+└── README.md              # Este arquivo de documentação
 
-**PageRank:** calcula a importancia de cada frase com base nas conexoes do grafo. Frases parecidas com muitas frases relevantes tendem a receber pontuacao maior. "Qual frase é mais importante dentro do grafo?"
+```
 
-**Remocao de redundancia:** evita selecionar frases muito parecidas entre si, reduzindo repeticoes no resumo.
+---
 
-**Limite de 20%:** limita o tamanho do resumo a aproximadamente 20% da quantidade de palavras do texto original processado.
+## ⚙️ Pré-requisitos e Instalação
 
-**Fila:** ordena as frases selecionadas pela posicao original no texto, preservando a ordem natural da leitura.
+Para rodar a aplicação, você precisará do **Python 3.8** (ou superior) instalado em sua máquina.
 
-**Resumo final:** junta as frases selecionadas e salva o resultado em `resultados/resumo_final.txt`.
+**1. Clone ou baixe este repositório.**
+Abra o terminal e navegue até a pasta raiz do projeto.
+
+**2. Crie um ambiente virtual (Opcional, mas recomendado):**
+Isso evita que as bibliotecas do projeto entrem em conflito com outras instaladas no seu computador.
+
+* **No Windows:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+
+```
+
+
+* **No Linux/Mac:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+
+```
+
+
+
+**3. Instale as dependências:**
+Certifique-se de que o arquivo `requirements.txt` contém as bibliotecas: `pdfplumber`, `nltk`, `scipy` e `numpy`. Para instalar todas de uma vez, execute:
+
+```bash
+pip install -r requirements.txt
+
+```
+
+*(Nota: O script Python já está configurado para baixar automaticamente os pacotes internos do NLTK, como `punkt` e `stopwords`, na primeira execução).*
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Adicione o arquivo de entrada:**
+Coloque o arquivo que você deseja resumir (PDF ou TXT) na pasta correspondente. Por padrão, o script busca em `data/raw/` ou `data/pdf/`.
+2. **Ajuste o caminho (se necessário):**
+Abra o arquivo `main.py` e verifique se as variáveis `caminho_pdf` e `caminho_saida` estão apontando para os locais corretos do seu computador. Use barras normais (`/`) para evitar erros de leitura no Windows.
+```python
+caminho_pdf = 'data/raw/seu_arquivo_aqui.pdf'
+caminho_saida = 'data/processed/resumo_final.txt'
+
+```
+
+
+3. **Execute o script principal:**
+No terminal, na raiz do projeto, digite:
+```bash
+python main.py
+
+```
+
+
+4. **Verifique o resultado:**
+O terminal exibirá o progresso de cada etapa (Ingestão, Pré-processamento, Grafo, etc). Ao finalizar com sucesso, o seu resumo estruturado estará salvo e pronto para leitura no caminho de saída definido (ex: `data/processed/resumo_final.txt`).
