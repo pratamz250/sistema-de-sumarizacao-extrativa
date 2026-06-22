@@ -40,7 +40,7 @@ def construir_grafo(sentencas_limpas, limiar=0.1):
                 
     return grafo
 
-def calcular_textrank_puro(grafo, d=0.85, iteracoes=50, erro_min=1e-4):
+def calcular_textrank(grafo, d=0.85, iteracoes=50, erro_min=1e-4):
     """
     Algoritmo de centralidade TextRank.
     Calcula recursivamente a importância de cada vértice na rede.
