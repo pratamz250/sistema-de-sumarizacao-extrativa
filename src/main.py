@@ -7,8 +7,8 @@ from graph_model import construir_grafo, calcular_textrank
 from summarizer import gerar_resumo_extrativo
 
 def main(args):
-    if len(args) < 3:
-        print("Erro. Use assim: python src/main.py <caminho_pdf> <caminho_saida>")
+    if len(args) != 5:
+        print("Erro. Use assim: python src/main.py <caminho_pdf> <caminho_saida> \"<frase inicial>\" \"<frase final>\"")
         return
 
     caminho_pdf = args[1]
@@ -19,7 +19,7 @@ def main(args):
         return
 
     print("Etapa 1: Ingestão e extração de dados...")
-    sentencas_originais = extrair_e_limpar_pdf(caminho_pdf)
+    sentencas_originais = extrair_e_limpar_pdf(caminho_pdf, texto_inicio=args[3], texto_fim=args[4])
     print(f"{len(sentencas_originais)} sentenças extraídas.")
 
     print("Etapa 2: Pré-processamento...")

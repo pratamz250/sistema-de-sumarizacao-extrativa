@@ -3,7 +3,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 
-nltk.download('stopwords', quiet=True)
+#nltk.download('stopwords', quiet=True)
 
 def pre_processar_sentencas(sentencas):
     stop_words = set(stopwords.words('portuguese'))
