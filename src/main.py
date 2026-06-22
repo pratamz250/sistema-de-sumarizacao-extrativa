@@ -1,13 +1,18 @@
 import os
+import sys
 from ingestion import extrair_e_limpar_pdf
 from preprocessing import pre_processar_sentencas
 
 from graph_model import construir_grafo, calcular_textrank
 from summarizer import gerar_resumo_extrativo
 
-def main():
-    caminho_pdf = 'data/pdf/artigoDrogasImpactosNaCavidadeOral_ESSE1.pdf' 
-    caminho_saida = 'data/processed/resumo_final.txt'
+def main(args):
+    if len(args) < 3:
+        print("Erro. Use assim: python src/main.py <caminho_pdf> <caminho_saida>")
+        return
+
+    caminho_pdf = args[1]
+    caminho_saida = args[2]
     
     if not os.path.exists(caminho_pdf):
         print(f"Erro: Ficheiro '{caminho_pdf}' não encontrado. Verifique o caminho.")
@@ -38,4 +43,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv)
