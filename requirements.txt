@@ -2,3 +2,5 @@ pypdf
 nltk 
 spacy 
 unidecode
+pdfplumber
+numpy
