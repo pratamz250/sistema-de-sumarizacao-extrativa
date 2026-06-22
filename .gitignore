@@ -16,3 +16,4 @@ __pycache__/
 # Saídas geradas automaticamente
 data/raw/
 data/summaries/
+data/processed/
