@@ -20,10 +20,8 @@ def extrair_e_limpar_pdf(caminho_pdf):
     texto_limpo = re.sub(r'\n', ' ', texto_limpo)                 # Remove quebras de linha
     texto_limpo = re.sub(r'\s{2,}', ' ', texto_limpo)             # Remove espaços duplos
     
-    # Segmentação
     sentencas = sent_tokenize(texto_limpo, language='portuguese')
     
-    # Filtro de ruído (frases muito curtas)
     sentencas = [s.strip() for s in sentencas if len(s.split()) > 3]
     
     return sentencas

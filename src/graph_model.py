@@ -1,49 +1,73 @@
-import numpy as np
-from scipy.spatial.distance import pdist, squareform
+import math
 
-def vetorizar_e_calcular_similaridade(sentencas_limpas):
-    vocabulario = set()
-    for sentenca in sentencas_limpas:
-        vocabulario.update(sentenca.split())
+def calcular_similaridade_cosseno(vetor1, vetor2):
+    """Calcula o cosseno do ângulo entre dois vetores"""
+    produto_escalar = sum(a * b for a, b in zip(vetor1, vetor2))
+    norma1 = math.sqrt(sum(a * a for a in vetor1))
+    norma2 = math.sqrt(sum(b * b for b in vetor2))
     
-    vocabulario = list(vocabulario)
+    if norma1 == 0 or norma2 == 0:
+        return 0.0
+    return produto_escalar / (norma1 * norma2)
+
+def construir_grafo(sentencas_limpas, limiar=0.1):
+    """
+    Constrói a representação estrutural do grafo (Lista de Adjacência).
+    Vértices: Índices das frases.
+    Arestas: Dicionário de conexões com pesos de similaridade.
+    """
+    vocabulario = list(set(palavra for sentenca in sentencas_limpas for palavra in sentenca.split()))
     word_to_index = {word: i for i, word in enumerate(vocabulario)}
     
-    num_sentencas = len(sentencas_limpas)
-    matriz_frequencia = np.zeros((num_sentencas, len(vocabulario)))
-    
-    for i, sentenca in enumerate(sentencas_limpas):
+    vetores = []
+    for sentenca in sentencas_limpas:
+        vetor = [0] * len(vocabulario)
         for palavra in sentenca.split():
             if palavra in word_to_index:
-                matriz_frequencia[i, word_to_index[palavra]] += 1
+                vetor[word_to_index[palavra]] += 1
+        vetores.append(vetor)
+    
+    num_sentencas = len(sentencas_limpas)
+    grafo = {i: {} for i in range(num_sentencas)}
+    
+    for i in range(num_sentencas):
+        for j in range(i + 1, num_sentencas):
+            sim = calcular_similaridade_cosseno(vetores[i], vetores[j])
+            # Aplica o limiar (threshold) para isolar redundâncias fracas
+            if sim >= limiar:
+                grafo[i][j] = sim
+                grafo[j][i] = sim
                 
-    if matriz_frequencia.any():
-        distancias_cosseno = pdist(matriz_frequencia, metric='cosine')
-        matriz_distancia = squareform(distancias_cosseno)
-        matriz_similaridade = 1 - matriz_distancia
-    else:
-        matriz_similaridade = np.zeros((num_sentencas, num_sentencas))
-        
-    np.fill_diagonal(matriz_similaridade, 0)
-    
-    return matriz_similaridade
+    return grafo
 
-def calcular_textrank(matriz_similaridade, d=0.85, iteracoes=100, erro_min=1e-4):
-    num_nos = matriz_similaridade.shape[0]
-    scores = np.ones(num_nos)
+def calcular_textrank_puro(grafo, d=0.85, iteracoes=50, erro_min=1e-4):
+    """
+    Algoritmo de centralidade TextRank.
+    Calcula recursivamente a importância de cada vértice na rede.
+    """
+    num_nos = len(grafo)
+    if num_nos == 0:
+        return {}
+    scores = {i: 1.0 for i in range(num_nos)}
+
+    pesos_saida = {no: sum(grafo[no].values()) for no in grafo}
     
-    # Normalização da matriz de transição
-    somas = matriz_similaridade.sum(axis=1)
-    matriz_transicao = np.zeros_like(matriz_similaridade)
-    for i in range(num_nos):
-        if somas[i] != 0:
-            matriz_transicao[i] = matriz_similaridade[i] / somas[i]
-            
-    # Execução iterativa do algoritmo de centralidade
     for _ in range(iteracoes):
-        novos_scores = (1 - d) + d * np.dot(matriz_transicao.T, scores)
-        if np.linalg.norm(novos_scores - scores) < erro_min:
-            break
-        scores = novos_scores
+        novos_scores = {}
+        convergencia = True
         
+        for no_i in grafo:
+            soma_votos = 0.0
+            for no_j in grafo:
+                if no_i in grafo[no_j] and pesos_saida[no_j] > 0:
+                    soma_votos += (scores[no_j] * grafo[no_j][no_i]) / pesos_saida[no_j]
+            
+            novos_scores[no_i] = (1 - d) + d * soma_votos
+            if abs(novos_scores[no_i] - scores[no_i]) > erro_min:
+                convergencia = False
+                
+        scores = novos_scores
+        if convergencia:
+            break
+            
     return scores
