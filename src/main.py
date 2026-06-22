@@ -5,7 +5,6 @@ from graph_model import vetorizar_e_calcular_similaridade, calcular_textrank
 from summarizer import gerar_resumo_extrativo
 
 def main():
-    # Caminhos de entrada e saída
     caminho_pdf = 'data/pdf/artigoDrogasImpactosNaCavidadeOral_ESSE1.pdf' 
     caminho_saida = 'data/processed/resumo.txt'
     
@@ -27,10 +26,9 @@ def main():
     scores = calcular_textrank(matriz_adjacencia)
 
     print("Etapa 5: Seleção e geração do resumo...")
-    # Ajuste a taxa_compressao conforme a necessidade
     resumo = gerar_resumo_extrativo(sentencas_originais, scores, taxa_compressao=0.3)
 
-    print("Etapa 6: Salvando resultado...")
+    print("Etapa 6: Resultado Salvo.")
     
     os.makedirs(os.path.dirname(caminho_saida), exist_ok=True)
     
