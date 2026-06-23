@@ -6,21 +6,21 @@ Este projeto gera um resumo extrativo automático a partir de um documento de en
 
 O pipeline de dados da aplicação segue as seguintes etapas:
 
-1. **Carrega o texto:** Ingestão do conteúdo bruto do arquivo de origem (ex: `data/raw/documento.pdf` ou `docs/article.txt`).
-2. **Limpeza:** Remove espaços repetidos, quebras de linha indesejadas, paginações e trechos irrelevantes, deixando o conteúdo mais uniforme para processamento.
-3. **Separa frases:** Segmenta o texto em sentenças individuais e descarta frases muito curtas, que normalmente carregam pouca informação útil para o resumo.
-4. **Vetorização (TF-IDF / Frequência):** Transforma cada frase em um vetor numérico, destacando palavras importantes em cada frase em relação ao conjunto completo e removendo ruídos (stopwords).
-5. **Similaridade do cosseno:** Compara os vetores das frases para medir o quanto elas são parecidas entre si. Responde à pergunta: *"O quanto duas frases abordam o mesmo contexto?"*
-6. **Grafo ponderado:** Cria uma rede (grafo) em que cada frase é um vértice (nó), e as arestas representam as similaridades que ficaram acima do limiar definido.
-7. **PageRank (TextRank):** Calcula a importância de cada frase com base nas conexões do grafo. Frases parecidas com muitas outras frases relevantes tendem a receber uma pontuação maior. Responde à pergunta: *"Qual frase é a mais central e importante dentro do documento?"*
-8. **Remoção de redundância:** Aplica filtros para evitar a seleção de frases muito parecidas entre si, reduzindo repetições no texto final.
-9. **Limite de compressão (20%):** Limita o tamanho do resumo a uma porcentagem específica (ex: 20% ou 30%) da quantidade de frases do texto original processado.
-10. **Ordenação (Fila/Lista):** Ordena as frases selecionadas vencedoras pela sua posição original no texto-base, preservando a cronologia e a ordem natural da leitura.
-11. **Resumo final:** Junta as frases selecionadas, formata em parágrafos ou tópicos e salva o resultado automaticamente na pasta de saída (ex: `data/processed/.txt`).
+1. **Extração do PDF:** Abre o arquivo PDF, percorre todas as páginas e reúne o texto extraído em um único conteúdo.
+2. **Delimitação do conteúdo:** Localiza as frases inicial e final informadas na execução e mantém somente o trecho compreendido entre elas.
+3. **Limpeza do texto:** Remove indicações de página, hifenizações causadas por quebras de linha, quebras de linha e espaços repetidos.
+4. **Separação das frases:** Segmenta o texto em sentenças com o NLTK e descarta aquelas que possuem três palavras ou menos.
+5. **Pré-processamento:** Converte as frases para minúsculas, remove pontuação e stopwords da língua portuguesa e reduz as palavras aos seus radicais com stemming.
+6. **Vetorização por frequência:** Cria um vocabulário com as palavras processadas e representa cada frase por um vetor contendo a frequência de cada palavra.
+7. **Similaridade do cosseno:** Calcula a similaridade entre os vetores de cada par de frases.
+8. **Construção do grafo ponderado:** Representa cada frase como um vértice e conecta frases com similaridade igual ou superior a `0.1`, utilizando a similaridade como peso da aresta.
+9. **Ranqueamento TextRank:** Calcula a pontuação de importância de cada frase a partir das conexões e dos pesos do grafo.
+10. **Seleção e ordenação:** Utiliza uma fila de prioridade máxima para selecionar aproximadamente 30% das frases com maiores pontuações e depois as reorganiza conforme a ordem em que aparecem no documento.
+11. **Geração do resumo:** Junta as frases selecionadas em parágrafos ou tópicos e grava o resultado em um arquivo de texto no caminho de saída informado.
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 Recomenda-se organizar os arquivos da seguinte maneira:
 
@@ -90,7 +90,7 @@ python src/setup_nltk.py
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. **Adicione o arquivo de entrada:**
 Coloque o arquivo que você deseja resumir (PDF ou TXT) na pasta correspondente. Por padrão, o script busca em `data/raw/` ou `data/pdf/`.
@@ -110,9 +110,39 @@ terminar. Por exemplo, se quiser ignorar a seção "agradecimentos" do seu artig
 3. **Verifique o resultado:**
 O terminal exibirá o progresso de cada etapa (Ingestão, Pré-processamento, Grafo, etc). Ao finalizar com sucesso, o seu resumo estruturado estará salvo e pronto para leitura no caminho de saída definido (ex: `data/processed/resumo_final.txt`).
 
-## 🎯 Exemplo de uso
+## Exemplo de uso
 
 1. **Exemplo após instalação de depêndias e setup:**
 ```bash
 python src/main.py data/pdf/artigo1.pdf data/processed/resumo_artigo1.txt "Discussão" "Referências"
+```
+
+## Executar os PDFs incluídos no projeto
+
+Execute os comandos abaixo a partir da pasta raiz do projeto. Cada artigo gera um arquivo de saída diferente em `data/processed/`, evitando que um resumo substitua o anterior.
+
+As duas frases no final de cada comando delimitam o conteúdo processado: a primeira marca o início do trecho e a segunda marca onde a extração deve terminar.
+
+### 1. Drogas e seus impactos na cavidade oral
+
+Processa o conteúdo entre as seções **Revisão de literatura** e **Considerações finais**:
+
+```bash
+python src/main.py data/pdf/artigoDrogasImpactosNaCavidadeOral_ESSE1.pdf data/processed/resumo_drogas_cavidade_oral.txt "Revisão de literatura" "Considerações finais"
+```
+
+### 2. Epidemiologia e prevenção do traumatismo dentário
+
+Processa o conteúdo entre as seções **Introdução** e **Considerações finais**:
+
+```bash
+python src/main.py data/pdf/epidemiologiaFatoresEtiologicosMeiosPrevencaoAssiciadosAoTraumatismoDentario_ESSE2.pdf data/processed/resumo_traumatismo_dentario.txt "INTRODUÇÃO" "CONSIDERAÇÕES FINAIS"
+```
+
+### 3. Causas e tratamento da periodontite
+
+Processa o conteúdo entre as seções **Tipos de periodontite e suas características** e **Metodologia**:
+
+```bash
+python src/main.py data/pdf/causasETratamentoDePeriondontite_ESSE3.pdf data/processed/resumo_periodontite.txt "TIPOS DE PERIODONTITE E SUAS CARACTERÍSTICAS" "METODOLOGIA"
 ```
